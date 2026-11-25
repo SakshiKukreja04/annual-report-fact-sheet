@@ -102,6 +102,7 @@ The pipeline is designed to avoid unnecessary API calls by reusing cached result
 | Component | Technology | Purpose |
 |---|---|---|
 | PDF processing | PyMuPDF | PDF inspection, rendering and digital text extraction |
+| Image preprocessing | OpenCV | Spread split, grayscale, denoising, contrast and deskew before OCR |
 | Local OCR | Tesseract | Text recovery from scanned or weak pages |
 | Vision OCR | Groq – Qwen3.8 27B | Recovery of difficult text from selected page images |
 | LLM extraction | Groq – GPT-OSS 120B | Structured fact and entity extraction |
@@ -158,11 +159,22 @@ When a PDF contains a usable text layer, its content is extracted directly witho
 
 This approach is computationally efficient and preserves the original text more reliably than OCR-based reconstruction.
 
-### Stage 4: OCR and Text Recovery
+### Stage 4: Image Preprocessing, OCR and Text Recovery
 
-Tesseract provides the local OCR fallback for pages where digital text extraction is unavailable or insufficient.
+Before OCR, scanned and image-heavy pages (especially POWERGRID’s fully scanned two-page spreads) pass through an OpenCV preprocessing path in `src/preprocessing/pipeline.py`.
 
-The pipeline also supports processing of two-page spreads where necessary.
+That path:
+
+- Detects wide two-page spreads and splits them on the page gutter into LEFT / RIGHT halves.
+- Converts each half to grayscale.
+- Scales the image toward a target OCR DPI (~300).
+- Measures speckle noise and, when the page is noisy enough, applies fast non-local-means denoising plus a light median filter.
+- Applies CLAHE contrast enhancement and unsharp masking.
+- Estimates skew and deskews the half when the measured angle is meaningful.
+
+Binarization is intentionally deferred so Tesseract can choose its own threshold on the cleaned grayscale image. Preprocessed halves are cached under `data/cache/preprocessing/` and reused by OCR and vision stages.
+
+Tesseract then provides the local OCR fallback for pages where digital text extraction is unavailable or insufficient.
 
 For difficult pages, selective vision-based OCR is used to recover text that local OCR cannot reliably interpret.
 
