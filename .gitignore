@@ -19,6 +19,9 @@ archive/
 logs/
 outputs/
 
+# Local / one-off scripts (not part of the evaluated pipeline)
+scripts/
+
 # Eval scratch (keep eval/cost/ for README numbers)
 eval/audit/
 eval/hindalco_*/
