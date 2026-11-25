@@ -1,0 +1,10 @@
+# Per-company postprocess after cached pipeline stages (no LLM unless --allow-llm).
+POWERGRID:
+  period: FY25
+  postprocess: powergrid_cleanup
+HINDALCO:
+  period: FY25
+  postprocess: hindalco_cleanup_v3
+COALINDIA:
+  period: FY25
+  postprocess: coalindia_cleanup_final

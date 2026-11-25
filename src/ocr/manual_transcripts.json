@@ -1,0 +1,14 @@
+{
+  "HINDALCO:45:LEFT": {
+    "source": "manual_transcript",
+    "note": "Heading on the rendered left half. The same words are in the page image and are checked against the PDF text layer. The box is x, y, width, height on full.png.",
+    "crop_box": [220, 320, 1120, 200],
+    "text": "Board of Directors"
+  },
+  "COALINDIA:82:LEFT": {
+    "source": "manual_transcript",
+    "note": "Caption on the photograph. It matches the PDF text layer. The box is x, y, width, height on full.png.",
+    "crop_box": [220, 400, 2300, 180],
+    "text": "Transportation of Coal through Pipe Conveyor to Power Station at WCL"
+  }
+}

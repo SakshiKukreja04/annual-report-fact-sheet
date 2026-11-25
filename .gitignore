@@ -1,0 +1,39 @@
+# Secrets and local environments
+.env
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+*.egg-info/
+.mypy_cache/
+.ruff_cache/
+
+# Large / regenerable local data (PDFs, OCR caches, ledgers)
+data/
+staging/
+runs/
+archive/
+logs/
+outputs/
+
+# Eval scratch (keep eval/cost/ for README numbers)
+eval/audit/
+eval/hindalco_*/
+eval/powergrid_*/
+eval/_*.py
+eval/*.json
+eval/*.jsonl
+eval/*.md
+eval/*.txt
+eval/*.py
+!eval/cost/
+!eval/cost/**
+
+# OS noise
+Thumbs.db
+Desktop.ini
+.DS_Store
+*.log

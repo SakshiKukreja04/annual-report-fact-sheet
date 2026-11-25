@@ -1,0 +1,2308 @@
+{
+  "ticker": "POWERGRID",
+  "period": "FY25",
+  "one_liner": "Power Grid Corporation of India Limited",
+  "summary": "Power Grid Corporation of India Limited",
+  "segments": [
+    {
+      "name": "Transmission",
+      "revenue": null,
+      "unit": null,
+      "share_pct": null
+    },
+    {
+      "name": "Telecom",
+      "revenue": null,
+      "unit": null,
+      "share_pct": null
+    },
+    {
+      "name": "Consultancy",
+      "revenue": null,
+      "unit": null,
+      "share_pct": null
+    }
+  ],
+  "items": [
+    {
+      "name": "Annual General Meeting",
+      "kind": "subsidiary",
+      "descriptor": "",
+      "entity": "Annual General Meeting",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 1,
+          "printed_page": "110",
+          "quote": "Annual General Meeting"
+        }
+      ]
+    },
+    {
+      "name": "National Securities Depository Limited",
+      "kind": "subsidiary",
+      "descriptor": "",
+      "entity": "National Securities Depository Limited",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 1,
+          "printed_page": "110",
+          "quote": "National Securities Depository Limited"
+        }
+      ]
+    },
+    {
+      "name": "National Stock Exchange of India Limited",
+      "kind": "subsidiary",
+      "descriptor": "",
+      "entity": "National Stock Exchange of India Limited",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 1,
+          "printed_page": "110",
+          "quote": "National Stock Exchange of India Limited"
+        }
+      ]
+    },
+    {
+      "name": "Senior Citizens’ Investor Cell",
+      "kind": "subsidiary",
+      "descriptor": "",
+      "entity": "Senior Citizens’ Investor Cell",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 8,
+          "printed_page": "7",
+          "quote": "Senior Citizens’ Investor Cell"
+        }
+      ]
+    },
+    {
+      "name": "e-Voting service",
+      "kind": "subsidiary",
+      "descriptor": "",
+      "entity": "e-Voting service",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 9,
+          "printed_page": "8",
+          "quote": "e-Voting service"
+        }
+      ]
+    },
+    {
+      "name": "Powergrid Teleservices Limited",
+      "kind": "subsidiary",
+      "descriptor": "",
+      "entity": "Powergrid Teleservices Limited",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 19,
+          "printed_page": "18",
+          "quote": "POWERGRID Teleservices Limited"
+        }
+      ]
+    },
+    {
+      "name": "Central Transmission Utility of India Limited",
+      "kind": "subsidiary",
+      "descriptor": "",
+      "entity": "Central Transmission Utility of India Limited",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 20,
+          "printed_page": "19",
+          "quote": "Central Transmission Utility of India Limited"
+        }
+      ]
+    },
+    {
+      "name": "Powergrid Unchahar Transmission Limited",
+      "kind": "subsidiary",
+      "descriptor": "",
+      "entity": "Powergrid Unchahar Transmission Limited",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 20,
+          "printed_page": "19",
+          "quote": "POWERGRID Unchahar Transmission Limited"
+        }
+      ]
+    },
+    {
+      "name": "Decision Support System",
+      "kind": "subsidiary",
+      "descriptor": "",
+      "entity": "Decision Support System",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 32,
+          "printed_page": "4",
+          "quote": "Decision Support System"
+        }
+      ]
+    },
+    {
+      "name": "Digital Substation",
+      "kind": "subsidiary",
+      "descriptor": "",
+      "entity": "Digital Substation",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 32,
+          "printed_page": "4",
+          "quote": "Digital Substation"
+        }
+      ]
+    },
+    {
+      "name": "Powergrid Energy Services Limited",
+      "kind": "subsidiary",
+      "descriptor": "",
+      "entity": "Powergrid Energy Services Limited",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 33,
+          "printed_page": "7",
+          "quote": "POWERGRID Energy Services Limited"
+        }
+      ]
+    },
+    {
+      "name": "Shakt! portal",
+      "kind": "subsidiary",
+      "descriptor": "",
+      "entity": "Shakt! portal",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 107,
+          "printed_page": "24",
+          "quote": "Shakt! portal"
+        }
+      ]
+    },
+    {
+      "name": "MEDINIPUR JEERAT TRANSMISSION",
+      "kind": "subsidiary",
+      "descriptor": "",
+      "entity": "MEDINIPUR JEERAT TRANSMISSION",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 136,
+          "printed_page": "211",
+          "quote": "MEDINIPUR JEERAT TRANSMISSION"
+        }
+      ]
+    },
+    {
+      "name": "Powergrid Agni Pathi Transmission Limited",
+      "kind": "subsidiary",
+      "descriptor": "",
+      "entity": "Powergrid Agni Pathi Transmission Limited",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 193,
+          "printed_page": "2",
+          "quote": "Powergrid Agni Pathi Transmission Limited"
+        }
+      ]
+    },
+    {
+      "name": "Powergrid Bilaspur Transmission Limited",
+      "kind": "subsidiary",
+      "descriptor": "",
+      "entity": "Powergrid Bilaspur Transmission Limited",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 193,
+          "printed_page": "2",
+          "quote": "Powergrid Bilaspur Transmission Limited"
+        }
+      ]
+    },
+    {
+      "name": "Powergrid Fatehpur Transmission Limited",
+      "kind": "subsidiary",
+      "descriptor": "",
+      "entity": "Powergrid Fatehpur Transmission Limited",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 193,
+          "printed_page": "2",
+          "quote": "Powergrid Fatehpur Transmission Limited"
+        }
+      ]
+    },
+    {
+      "name": "Powergrid Kanpur Phase-2 Transmission Systems Limited",
+      "kind": "subsidiary",
+      "descriptor": "",
+      "entity": "Powergrid Kanpur Phase-2 Transmission Systems Limited",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 193,
+          "printed_page": "2",
+          "quote": "Powergrid Kanpur Phase-2 Transmission Systems Limited"
+        }
+      ]
+    },
+    {
+      "name": "Powergrid Karnal Transmission Systems Limited",
+      "kind": "subsidiary",
+      "descriptor": "",
+      "entity": "Powergrid Karnal Transmission Systems Limited",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 193,
+          "printed_page": "2",
+          "quote": "Powergrid Karnal Transmission Systems Limited"
+        }
+      ]
+    },
+    {
+      "name": "Powergrid Kasti Transmission Systems Limited",
+      "kind": "subsidiary",
+      "descriptor": "",
+      "entity": "Powergrid Kasti Transmission Systems Limited",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 193,
+          "printed_page": "2",
+          "quote": "Powergrid Kasti Transmission Systems Limited"
+        }
+      ]
+    },
+    {
+      "name": "Powergrid Rampur Sambhal Transmission Limited",
+      "kind": "subsidiary",
+      "descriptor": "",
+      "entity": "Powergrid Rampur Sambhal Transmission Limited",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 193,
+          "printed_page": "2",
+          "quote": "Powergrid Rampur Sambhal Transmission Limited"
+        }
+      ]
+    },
+    {
+      "name": "Powergrid Varanasi Transmission Systems Limited",
+      "kind": "subsidiary",
+      "descriptor": "",
+      "entity": "Powergrid Varanasi Transmission Systems Limited",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 193,
+          "printed_page": "2",
+          "quote": "Powergrid Varanasi Transmission Systems Limited"
+        }
+      ]
+    },
+    {
+      "name": "Powergrid BWR Power Transmission Limited",
+      "kind": "subsidiary",
+      "descriptor": "",
+      "entity": "Powergrid BWR Power Transmission Limited",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 194,
+          "printed_page": "2",
+          "quote": "Powergrid BWR Power Transmission Limited"
+        }
+      ]
+    },
+    {
+      "name": "Powergrid EB Mer Transmission Limited",
+      "kind": "subsidiary",
+      "descriptor": "",
+      "entity": "Powergrid EB Mer Transmission Limited",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 194,
+          "printed_page": "2",
+          "quote": "Powergrid EB Mer Transmission Limited"
+        }
+      ]
+    },
+    {
+      "name": "Powergrid Khoda & B Transmission Limited",
+      "kind": "subsidiary",
+      "descriptor": "",
+      "entity": "Powergrid Khoda & B Transmission Limited",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 194,
+          "printed_page": "2",
+          "quote": "Powergrid Khoda & B Transmission Limited"
+        }
+      ]
+    },
+    {
+      "name": "Powergrid Khoda & Transmission System Limited",
+      "kind": "subsidiary",
+      "descriptor": "",
+      "entity": "Powergrid Khoda & Transmission System Limited",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 194,
+          "printed_page": "2",
+          "quote": "Powergrid Khoda & Transmission System Limited"
+        }
+      ]
+    },
+    {
+      "name": "Powergrid Meenach Transmission Limited",
+      "kind": "subsidiary",
+      "descriptor": "",
+      "entity": "Powergrid Meenach Transmission Limited",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 194,
+          "printed_page": "2",
+          "quote": "Powergrid Meenach Transmission Limited"
+        }
+      ]
+    },
+    {
+      "name": "Powergrid Yamuna Transmission Limited",
+      "kind": "subsidiary",
+      "descriptor": "",
+      "entity": "Powergrid Yamuna Transmission Limited",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 194,
+          "printed_page": "2",
+          "quote": "Powergrid Yamuna Transmission Limited"
+        }
+      ]
+    },
+    {
+      "name": "CSR PROJECTS",
+      "kind": "subsidiary",
+      "descriptor": "",
+      "entity": "CSR PROJECTS",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 199,
+          "printed_page": "2",
+          "quote": "CSR PROJECTS"
+        }
+      ]
+    },
+    {
+      "name": "CSR activities",
+      "kind": "subsidiary",
+      "descriptor": "",
+      "entity": "CSR activities",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 199,
+          "printed_page": "2",
+          "quote": "CSR activities"
+        }
+      ]
+    },
+    {
+      "name": "CARES Fund",
+      "kind": "subsidiary",
+      "descriptor": "",
+      "entity": "CARES Fund",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 237,
+          "printed_page": "135",
+          "quote": "CARES Fund"
+        }
+      ]
+    },
+    {
+      "name": "BEC Power",
+      "kind": "subsidiary",
+      "descriptor": "",
+      "entity": "BEC Power",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 240,
+          "printed_page": "24",
+          "quote": "BEC Power"
+        }
+      ]
+    },
+    {
+      "name": "Powergrid Ananthpuram Kumool Transmission Limited",
+      "kind": "subsidiary",
+      "descriptor": "",
+      "entity": "Powergrid Ananthpuram Kumool Transmission Limited",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 243,
+          "printed_page": "24",
+          "quote": "Powergrid Ananthpuram Kumool Transmission Limited"
+        }
+      ]
+    },
+    {
+      "name": "Powergrid Armer Phagdi Transmission Limited",
+      "kind": "subsidiary",
+      "descriptor": "",
+      "entity": "Powergrid Armer Phagdi Transmission Limited",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 243,
+          "printed_page": "24",
+          "quote": "Powergrid Armer Phagdi Transmission Limited"
+        }
+      ]
+    },
+    {
+      "name": "Powergrid BE MEW Transmission Limited",
+      "kind": "subsidiary",
+      "descriptor": "",
+      "entity": "Powergrid BE MEW Transmission Limited",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 243,
+          "printed_page": "24",
+          "quote": "Powergrid BE MEW Transmission Limited"
+        }
+      ]
+    },
+    {
+      "name": "Powergrid Beawar-Mandsaur Transmission Limited",
+      "kind": "subsidiary",
+      "descriptor": "",
+      "entity": "Powergrid Beawar-Mandsaur Transmission Limited",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 243,
+          "printed_page": "24",
+          "quote": "Powergrid Beawar-Mandsaur Transmission Limited"
+        }
+      ]
+    },
+    {
+      "name": "Powergrid Bedau Dausa Transmission Limited",
+      "kind": "subsidiary",
+      "descriptor": "",
+      "entity": "Powergrid Bedau Dausa Transmission Limited",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 243,
+          "printed_page": "24",
+          "quote": "Powergrid Bedau Dausa Transmission Limited"
+        }
+      ]
+    },
+    {
+      "name": "Powergrid Bhadla Bikaner Transmission Limited",
+      "kind": "subsidiary",
+      "descriptor": "",
+      "entity": "Powergrid Bhadla Bikaner Transmission Limited",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 243,
+          "printed_page": "24",
+          "quote": "Powergrid Bhadla Bikaner Transmission Limited"
+        }
+      ]
+    },
+    {
+      "name": "Powergrid Bhadla II Transmission Limited",
+      "kind": "subsidiary",
+      "descriptor": "",
+      "entity": "Powergrid Bhadla II Transmission Limited",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 243,
+          "printed_page": "24",
+          "quote": "Powergrid Bhadla II Transmission Limited"
+        }
+      ]
+    },
+    {
+      "name": "Powergrid Bhadla Sikar Transmission Limited",
+      "kind": "subsidiary",
+      "descriptor": "",
+      "entity": "Powergrid Bhadla Sikar Transmission Limited",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 243,
+          "printed_page": "24",
+          "quote": "Powergrid Bhadla Sikar Transmission Limited"
+        }
+      ]
+    },
+    {
+      "name": "Powergrid Bhadla Transmission Limited",
+      "kind": "subsidiary",
+      "descriptor": "",
+      "entity": "Powergrid Bhadla Transmission Limited",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 243,
+          "printed_page": "24",
+          "quote": "Powergrid Bhadla Transmission Limited"
+        }
+      ]
+    },
+    {
+      "name": "Powergrid Bhadla-II Power Transmission Limited",
+      "kind": "subsidiary",
+      "descriptor": "",
+      "entity": "Powergrid Bhadla-II Power Transmission Limited",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 243,
+          "printed_page": "24",
+          "quote": "Powergrid Bhadla-II Power Transmission Limited"
+        }
+      ]
+    },
+    {
+      "name": "Powergrid Bikaner Reetrana Transmission Limited",
+      "kind": "subsidiary",
+      "descriptor": "",
+      "entity": "Powergrid Bikaner Reetrana Transmission Limited",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 243,
+          "printed_page": "24",
+          "quote": "Powergrid Bikaner Reetrana Transmission Limited"
+        }
+      ]
+    },
+    {
+      "name": "Powergrid Bikaner Transmission System Limited",
+      "kind": "subsidiary",
+      "descriptor": "",
+      "entity": "Powergrid Bikaner Transmission System Limited",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 243,
+          "printed_page": "24",
+          "quote": "Powergrid Bikaner Transmission System Limited"
+        }
+      ]
+    },
+    {
+      "name": "Powergrid Dhamtari Transmission Limited",
+      "kind": "subsidiary",
+      "descriptor": "",
+      "entity": "Powergrid Dhamtari Transmission Limited",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 243,
+          "printed_page": "24",
+          "quote": "Powergrid Dhamtari Transmission Limited"
+        }
+      ]
+    },
+    {
+      "name": "Powergrid ERW& Power Transmission Limited",
+      "kind": "subsidiary",
+      "descriptor": "",
+      "entity": "Powergrid ERW& Power Transmission Limited",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 243,
+          "printed_page": "24",
+          "quote": "Powergrid ERW& Power Transmission Limited"
+        }
+      ]
+    },
+    {
+      "name": "Powergrid Fatehgarh Transmission Limited",
+      "kind": "subsidiary",
+      "descriptor": "",
+      "entity": "Powergrid Fatehgarh Transmission Limited",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 243,
+          "printed_page": "24",
+          "quote": "Powergrid Fatehgarh Transmission Limited"
+        }
+      ]
+    },
+    {
+      "name": "Powergrid Gamli Yamuna Transmission Limited",
+      "kind": "subsidiary",
+      "descriptor": "",
+      "entity": "Powergrid Gamli Yamuna Transmission Limited",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 243,
+          "printed_page": "24",
+          "quote": "Powergrid Gamli Yamuna Transmission Limited"
+        }
+      ]
+    },
+    {
+      "name": "Powergrid Jam Khamhaliya Transmission Limited",
+      "kind": "subsidiary",
+      "descriptor": "",
+      "entity": "Powergrid Jam Khamhaliya Transmission Limited",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 243,
+          "printed_page": "24",
+          "quote": "Powergrid Jam Khamhaliya Transmission Limited"
+        }
+      ]
+    },
+    {
+      "name": "Powergrid KPS2 Transmission System Limited",
+      "kind": "subsidiary",
+      "descriptor": "",
+      "entity": "Powergrid KPS2 Transmission System Limited",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 243,
+          "printed_page": "24",
+          "quote": "Powergrid KPS2 Transmission System Limited"
+        }
+      ]
+    },
+    {
+      "name": "Powergrid KPS3 Transmission Limited",
+      "kind": "subsidiary",
+      "descriptor": "",
+      "entity": "Powergrid KPS3 Transmission Limited",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 243,
+          "printed_page": "24",
+          "quote": "Powergrid KPS3 Transmission Limited"
+        }
+      ]
+    },
+    {
+      "name": "Powergrid Khabri Transmission System Limited",
+      "kind": "subsidiary",
+      "descriptor": "",
+      "entity": "Powergrid Khabri Transmission System Limited",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 243,
+          "printed_page": "24",
+          "quote": "Powergrid Khabri Transmission System Limited"
+        }
+      ]
+    },
+    {
+      "name": "Powergrid Khavda (V-E2 Power Transmission Limited",
+      "kind": "subsidiary",
+      "descriptor": "",
+      "entity": "Powergrid Khavda (V-E2 Power Transmission Limited",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 243,
+          "printed_page": "24",
+          "quote": "Powergrid Khavda (V-E2 Power Transmission Limited"
+        }
+      ]
+    },
+    {
+      "name": "Powergrid Khavda BE Transmission System Limited",
+      "kind": "subsidiary",
+      "descriptor": "",
+      "entity": "Powergrid Khavda BE Transmission System Limited",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 243,
+          "printed_page": "24",
+          "quote": "Powergrid Khavda BE Transmission System Limited"
+        }
+      ]
+    },
+    {
+      "name": "Powergrid Khavda II - B Transmission Limited",
+      "kind": "subsidiary",
+      "descriptor": "",
+      "entity": "Powergrid Khavda II - B Transmission Limited",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 243,
+          "printed_page": "24",
+          "quote": "Powergrid Khavda II - B Transmission Limited"
+        }
+      ]
+    },
+    {
+      "name": "Powergrid Khavda II - C Transmission Limited",
+      "kind": "subsidiary",
+      "descriptor": "",
+      "entity": "Powergrid Khavda II - C Transmission Limited",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 243,
+          "printed_page": "24",
+          "quote": "Powergrid Khavda II - C Transmission Limited"
+        }
+      ]
+    },
+    {
+      "name": "Powergrid Koppal",
+      "kind": "subsidiary",
+      "descriptor": "",
+      "entity": "Powergrid Koppal",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 243,
+          "printed_page": "24",
+          "quote": "Powergrid Koppal"
+        }
+      ]
+    },
+    {
+      "name": "Powergrid Koppal Gadag Transmission Limited",
+      "kind": "subsidiary",
+      "descriptor": "",
+      "entity": "Powergrid Koppal Gadag Transmission Limited",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 243,
+          "printed_page": "24",
+          "quote": "Powergrid Koppal Gadag Transmission Limited"
+        }
+      ]
+    },
+    {
+      "name": "Powergrid Kurawan Transmission Limited",
+      "kind": "subsidiary",
+      "descriptor": "",
+      "entity": "Powergrid Kurawan Transmission Limited",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 243,
+          "printed_page": "24",
+          "quote": "Powergrid Kurawan Transmission Limited"
+        }
+      ]
+    },
+    {
+      "name": "Powergrid Mandisar Transmission Limited",
+      "kind": "subsidiary",
+      "descriptor": "",
+      "entity": "Powergrid Mandisar Transmission Limited",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 243,
+          "printed_page": "24",
+          "quote": "Powergrid Mandisar Transmission Limited"
+        }
+      ]
+    },
+    {
+      "name": "Powergrid Meent Simbahavali Transmission Limited",
+      "kind": "subsidiary",
+      "descriptor": "",
+      "entity": "Powergrid Meent Simbahavali Transmission Limited",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 243,
+          "printed_page": "24",
+          "quote": "Powergrid Meent Simbahavali Transmission Limited"
+        }
+      ]
+    },
+    {
+      "name": "Powergrid Namda Transmission Limited",
+      "kind": "subsidiary",
+      "descriptor": "",
+      "entity": "Powergrid Namda Transmission Limited",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 243,
+          "printed_page": "24",
+          "quote": "Powergrid Namda Transmission Limited"
+        }
+      ]
+    },
+    {
+      "name": "Powergrid Neemuch Transmission System Limited",
+      "kind": "subsidiary",
+      "descriptor": "",
+      "entity": "Powergrid Neemuch Transmission System Limited",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 243,
+          "printed_page": "24",
+          "quote": "Powergrid Neemuch Transmission System Limited"
+        }
+      ]
+    },
+    {
+      "name": "Powergrid Neertrana Bareilly Transmission Limited",
+      "kind": "subsidiary",
+      "descriptor": "",
+      "entity": "Powergrid Neertrana Bareilly Transmission Limited",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 243,
+          "printed_page": "24",
+          "quote": "Powergrid Neertrana Bareilly Transmission Limited"
+        }
+      ]
+    },
+    {
+      "name": "Powergrid Rajpur Pool Dhamtari Transmission Limited",
+      "kind": "subsidiary",
+      "descriptor": "",
+      "entity": "Powergrid Rajpur Pool Dhamtari Transmission Limited",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 243,
+          "printed_page": "24",
+          "quote": "Powergrid Rajpur Pool Dhamtari Transmission Limited"
+        }
+      ]
+    },
+    {
+      "name": "Powergrid Ramgarh II Transmission Limited",
+      "kind": "subsidiary",
+      "descriptor": "",
+      "entity": "Powergrid Ramgarh II Transmission Limited",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 243,
+          "printed_page": "24",
+          "quote": "Powergrid Ramgarh II Transmission Limited"
+        }
+      ]
+    },
+    {
+      "name": "Powergrid Ramgarh Sambhal Transmission Limited",
+      "kind": "subsidiary",
+      "descriptor": "",
+      "entity": "Powergrid Ramgarh Sambhal Transmission Limited",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 243,
+          "printed_page": "24",
+          "quote": "Powergrid Ramgarh Sambhal Transmission Limited"
+        }
+      ]
+    },
+    {
+      "name": "Powergrid Rangnagar Transmission Limited",
+      "kind": "subsidiary",
+      "descriptor": "",
+      "entity": "Powergrid Rangnagar Transmission Limited",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 243,
+          "printed_page": "24",
+          "quote": "Powergrid Rangnagar Transmission Limited"
+        }
+      ]
+    },
+    {
+      "name": "Powergrid Sikar Khetri Transmission Limited",
+      "kind": "subsidiary",
+      "descriptor": "",
+      "entity": "Powergrid Sikar Khetri Transmission Limited",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 243,
+          "printed_page": "24",
+          "quote": "Powergrid Sikar Khetri Transmission Limited"
+        }
+      ]
+    },
+    {
+      "name": "Powergrid Sikar Transmission Limited",
+      "kind": "subsidiary",
+      "descriptor": "",
+      "entity": "Powergrid Sikar Transmission Limited",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 243,
+          "printed_page": "24",
+          "quote": "Powergrid Sikar Transmission Limited"
+        }
+      ]
+    },
+    {
+      "name": "Powergrid South Gird Transmission Limited",
+      "kind": "subsidiary",
+      "descriptor": "",
+      "entity": "Powergrid South Gird Transmission Limited",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 243,
+          "printed_page": "24",
+          "quote": "Powergrid South Gird Transmission Limited"
+        }
+      ]
+    },
+    {
+      "name": "Powergrid Southern Interconnector Transmission System Limited",
+      "kind": "subsidiary",
+      "descriptor": "",
+      "entity": "Powergrid Southern Interconnector Transmission System Limited",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 243,
+          "printed_page": "24",
+          "quote": "Powergrid Southern Interconnector Transmission System Limited"
+        }
+      ]
+    },
+    {
+      "name": "Powergrid Vataman Transmission Limited",
+      "kind": "subsidiary",
+      "descriptor": "",
+      "entity": "Powergrid Vataman Transmission Limited",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 243,
+          "printed_page": "24",
+          "quote": "Powergrid Vataman Transmission Limited"
+        }
+      ]
+    },
+    {
+      "name": "Sikar Transmission Limited",
+      "kind": "subsidiary",
+      "descriptor": "",
+      "entity": "Sikar Transmission Limited",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 243,
+          "printed_page": "24",
+          "quote": "Sikar Transmission Limited"
+        }
+      ]
+    },
+    {
+      "name": "W& Power Transmission Limited",
+      "kind": "subsidiary",
+      "descriptor": "",
+      "entity": "W& Power Transmission Limited",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 243,
+          "printed_page": "24",
+          "quote": "W& Power Transmission Limited"
+        }
+      ]
+    },
+    {
+      "name": "am Kumool Transmission Limited",
+      "kind": "subsidiary",
+      "descriptor": "",
+      "entity": "am Kumool Transmission Limited",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 243,
+          "printed_page": "24",
+          "quote": "am Kumool Transmission Limited"
+        }
+      ]
+    },
+    {
+      "name": "d Powergrid Ananthpuram Kumool Transmission Limited",
+      "kind": "subsidiary",
+      "descriptor": "",
+      "entity": "d Powergrid Ananthpuram Kumool Transmission Limited",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 243,
+          "printed_page": "24",
+          "quote": "d Powergrid Ananthpuram Kumool Transmission Limited"
+        }
+      ]
+    },
+    {
+      "name": "d Powergrid Bhadla Sikar Transmission Limited",
+      "kind": "subsidiary",
+      "descriptor": "",
+      "entity": "d Powergrid Bhadla Sikar Transmission Limited",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 243,
+          "printed_page": "24",
+          "quote": "d Powergrid Bhadla Sikar Transmission Limited"
+        }
+      ]
+    },
+    {
+      "name": "ed Powergrid Dhamtari Transmission Limited",
+      "kind": "subsidiary",
+      "descriptor": "",
+      "entity": "ed Powergrid Dhamtari Transmission Limited",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 243,
+          "printed_page": "24",
+          "quote": "ed Powergrid Dhamtari Transmission Limited"
+        }
+      ]
+    },
+    {
+      "name": "ergrid Meent Simbahavali Transmission Limited",
+      "kind": "subsidiary",
+      "descriptor": "",
+      "entity": "ergrid Meent Simbahavali Transmission Limited",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 243,
+          "printed_page": "24",
+          "quote": "ergrid Meent Simbahavali Transmission Limited"
+        }
+      ]
+    },
+    {
+      "name": "ergrid Namda Transmission Limited",
+      "kind": "subsidiary",
+      "descriptor": "",
+      "entity": "ergrid Namda Transmission Limited",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 243,
+          "printed_page": "24",
+          "quote": "ergrid Namda Transmission Limited"
+        }
+      ]
+    },
+    {
+      "name": "ergrid Ramgarh II Transmission Limited",
+      "kind": "subsidiary",
+      "descriptor": "",
+      "entity": "ergrid Ramgarh II Transmission Limited",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 243,
+          "printed_page": "24",
+          "quote": "ergrid Ramgarh II Transmission Limited"
+        }
+      ]
+    },
+    {
+      "name": "owergrid Ananthpuram Kumool Transmission Limited",
+      "kind": "subsidiary",
+      "descriptor": "",
+      "entity": "owergrid Ananthpuram Kumool Transmission Limited",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 243,
+          "printed_page": "24",
+          "quote": "owergrid Ananthpuram Kumool Transmission Limited"
+        }
+      ]
+    },
+    {
+      "name": "owergrid Armer Phagdi Transmission Limited",
+      "kind": "subsidiary",
+      "descriptor": "",
+      "entity": "owergrid Armer Phagdi Transmission Limited",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 243,
+          "printed_page": "24",
+          "quote": "owergrid Armer Phagdi Transmission Limited"
+        }
+      ]
+    },
+    {
+      "name": "owergrid Bedau Dausa Transmission Limited",
+      "kind": "subsidiary",
+      "descriptor": "",
+      "entity": "owergrid Bedau Dausa Transmission Limited",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 243,
+          "printed_page": "24",
+          "quote": "owergrid Bedau Dausa Transmission Limited"
+        }
+      ]
+    },
+    {
+      "name": "owergrid Bhadla II Transmission Limited",
+      "kind": "subsidiary",
+      "descriptor": "",
+      "entity": "owergrid Bhadla II Transmission Limited",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 243,
+          "printed_page": "24",
+          "quote": "owergrid Bhadla II Transmission Limited"
+        }
+      ]
+    },
+    {
+      "name": "owergrid Bhadla Sikar Transmission Limited",
+      "kind": "subsidiary",
+      "descriptor": "",
+      "entity": "owergrid Bhadla Sikar Transmission Limited",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 243,
+          "printed_page": "24",
+          "quote": "owergrid Bhadla Sikar Transmission Limited"
+        }
+      ]
+    },
+    {
+      "name": "owergrid Bhadla Transmission Limited",
+      "kind": "subsidiary",
+      "descriptor": "",
+      "entity": "owergrid Bhadla Transmission Limited",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 243,
+          "printed_page": "24",
+          "quote": "owergrid Bhadla Transmission Limited"
+        }
+      ]
+    },
+    {
+      "name": "owergrid Bikaner Reetrana Transmission Limited",
+      "kind": "subsidiary",
+      "descriptor": "",
+      "entity": "owergrid Bikaner Reetrana Transmission Limited",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 243,
+          "printed_page": "24",
+          "quote": "owergrid Bikaner Reetrana Transmission Limited"
+        }
+      ]
+    },
+    {
+      "name": "owergrid ERW& Power Transmission Limited",
+      "kind": "subsidiary",
+      "descriptor": "",
+      "entity": "owergrid ERW& Power Transmission Limited",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 243,
+          "printed_page": "24",
+          "quote": "owergrid ERW& Power Transmission Limited"
+        }
+      ]
+    },
+    {
+      "name": "owergrid Gamli Yamuna Transmission Limited",
+      "kind": "subsidiary",
+      "descriptor": "",
+      "entity": "owergrid Gamli Yamuna Transmission Limited",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 243,
+          "printed_page": "24",
+          "quote": "owergrid Gamli Yamuna Transmission Limited"
+        }
+      ]
+    },
+    {
+      "name": "owergrid Khabri Transmission System Limited",
+      "kind": "subsidiary",
+      "descriptor": "",
+      "entity": "owergrid Khabri Transmission System Limited",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 243,
+          "printed_page": "24",
+          "quote": "owergrid Khabri Transmission System Limited"
+        }
+      ]
+    },
+    {
+      "name": "owergrid Meent Simbahavali Transmission Limited",
+      "kind": "subsidiary",
+      "descriptor": "",
+      "entity": "owergrid Meent Simbahavali Transmission Limited",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 243,
+          "printed_page": "24",
+          "quote": "owergrid Meent Simbahavali Transmission Limited"
+        }
+      ]
+    },
+    {
+      "name": "owergrid Neertrana Bareilly Transmission Limited",
+      "kind": "subsidiary",
+      "descriptor": "",
+      "entity": "owergrid Neertrana Bareilly Transmission Limited",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 243,
+          "printed_page": "24",
+          "quote": "owergrid Neertrana Bareilly Transmission Limited"
+        }
+      ]
+    },
+    {
+      "name": "owergrid Rajpur Pool Dhamtari Transmission Limited",
+      "kind": "subsidiary",
+      "descriptor": "",
+      "entity": "owergrid Rajpur Pool Dhamtari Transmission Limited",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 243,
+          "printed_page": "24",
+          "quote": "owergrid Rajpur Pool Dhamtari Transmission Limited"
+        }
+      ]
+    },
+    {
+      "name": "owergrid Ramgarh II Transmission Limited",
+      "kind": "subsidiary",
+      "descriptor": "",
+      "entity": "owergrid Ramgarh II Transmission Limited",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 243,
+          "printed_page": "24",
+          "quote": "owergrid Ramgarh II Transmission Limited"
+        }
+      ]
+    },
+    {
+      "name": "owergrid Ramgarh Sambhal Transmission Limited",
+      "kind": "subsidiary",
+      "descriptor": "",
+      "entity": "owergrid Ramgarh Sambhal Transmission Limited",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 243,
+          "printed_page": "24",
+          "quote": "owergrid Ramgarh Sambhal Transmission Limited"
+        }
+      ]
+    },
+    {
+      "name": "wergrid Ananthpuram Kumool Transmission Limited",
+      "kind": "subsidiary",
+      "descriptor": "",
+      "entity": "wergrid Ananthpuram Kumool Transmission Limited",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 243,
+          "printed_page": "24",
+          "quote": "wergrid Ananthpuram Kumool Transmission Limited"
+        }
+      ]
+    },
+    {
+      "name": "wergrid Armer Phagdi Transmission Limited",
+      "kind": "subsidiary",
+      "descriptor": "",
+      "entity": "wergrid Armer Phagdi Transmission Limited",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 243,
+          "printed_page": "24",
+          "quote": "wergrid Armer Phagdi Transmission Limited"
+        }
+      ]
+    },
+    {
+      "name": "wergrid Bikaner Transmission System Limited",
+      "kind": "subsidiary",
+      "descriptor": "",
+      "entity": "wergrid Bikaner Transmission System Limited",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 243,
+          "printed_page": "24",
+          "quote": "wergrid Bikaner Transmission System Limited"
+        }
+      ]
+    },
+    {
+      "name": "wergrid Meent Simbahavali Transmission Limited",
+      "kind": "subsidiary",
+      "descriptor": "",
+      "entity": "wergrid Meent Simbahavali Transmission Limited",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 243,
+          "printed_page": "24",
+          "quote": "wergrid Meent Simbahavali Transmission Limited"
+        }
+      ]
+    },
+    {
+      "name": "wergrid Ramgarh II Transmission Limited",
+      "kind": "subsidiary",
+      "descriptor": "",
+      "entity": "wergrid Ramgarh II Transmission Limited",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 243,
+          "printed_page": "24",
+          "quote": "wergrid Ramgarh II Transmission Limited"
+        }
+      ]
+    },
+    {
+      "name": "Augmentation Transmission Limited",
+      "kind": "subsidiary",
+      "descriptor": "",
+      "entity": "Augmentation Transmission Limited",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 244,
+          "printed_page": "24",
+          "quote": "Augmentation Transmission Limited"
+        }
+      ]
+    },
+    {
+      "name": "Banaskantha Transco Limited",
+      "kind": "subsidiary",
+      "descriptor": "",
+      "entity": "Banaskantha Transco Limited",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 244,
+          "printed_page": "24",
+          "quote": "Banaskantha Transco Limited"
+        }
+      ]
+    },
+    {
+      "name": "Banner I PS Transmission Limited",
+      "kind": "subsidiary",
+      "descriptor": "",
+      "entity": "Banner I PS Transmission Limited",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 244,
+          "printed_page": "24",
+          "quote": "Banner I PS Transmission Limited"
+        }
+      ]
+    },
+    {
+      "name": "Bidar Transco Limited",
+      "kind": "subsidiary",
+      "descriptor": "",
+      "entity": "Bidar Transco Limited",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 244,
+          "printed_page": "24",
+          "quote": "Bidar Transco Limited"
+        }
+      ]
+    },
+    {
+      "name": "Chitradurga Bellary RE2 Transmission Limited",
+      "kind": "subsidiary",
+      "descriptor": "",
+      "entity": "Chitradurga Bellary RE2 Transmission Limited",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 244,
+          "printed_page": "24",
+          "quote": "Chitradurga Bellary RE2 Transmission Limited"
+        }
+      ]
+    },
+    {
+      "name": "Cross Border Power Transmission Company Limited",
+      "kind": "subsidiary",
+      "descriptor": "",
+      "entity": "Cross Border Power Transmission Company Limited",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 244,
+          "printed_page": "24",
+          "quote": "Cross Border Power Transmission Company Limited"
+        }
+      ]
+    },
+    {
+      "name": "Energy Efficiency Services Limited",
+      "kind": "subsidiary",
+      "descriptor": "",
+      "entity": "Energy Efficiency Services Limited",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 244,
+          "printed_page": "24",
+          "quote": "Energy Efficiency Services Limited"
+        }
+      ]
+    },
+    {
+      "name": "Fatehgarh I and Banner I PS Transmission Limited",
+      "kind": "subsidiary",
+      "descriptor": "",
+      "entity": "Fatehgarh I and Banner I PS Transmission Limited",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 244,
+          "printed_page": "24",
+          "quote": "Fatehgarh I and Banner I PS Transmission Limited"
+        }
+      ]
+    },
+    {
+      "name": "High Power Test",
+      "kind": "subsidiary",
+      "descriptor": "",
+      "entity": "High Power Test",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 244,
+          "printed_page": "24",
+          "quote": "High Power Test"
+        }
+      ]
+    },
+    {
+      "name": "Khavda IV-E2 Power Transmission Limited",
+      "kind": "subsidiary",
+      "descriptor": "",
+      "entity": "Khavda IV-E2 Power Transmission Limited",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 244,
+          "printed_page": "24",
+          "quote": "Khavda IV-E2 Power Transmission Limited"
+        }
+      ]
+    },
+    {
+      "name": "Khavda V-B1B2 Power Transmission Limited",
+      "kind": "subsidiary",
+      "descriptor": "",
+      "entity": "Khavda V-B1B2 Power Transmission Limited",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 244,
+          "printed_page": "24",
+          "quote": "Khavda V-B1B2 Power Transmission Limited"
+        }
+      ]
+    },
+    {
+      "name": "Kurnool III PS RE Transmission Limited",
+      "kind": "subsidiary",
+      "descriptor": "",
+      "entity": "Kurnool III PS RE Transmission Limited",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 244,
+          "printed_page": "24",
+          "quote": "Kurnool III PS RE Transmission Limited"
+        }
+      ]
+    },
+    {
+      "name": "Kurnool-JV Transmission Limited",
+      "kind": "subsidiary",
+      "descriptor": "",
+      "entity": "Kurnool-JV Transmission Limited",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 244,
+          "printed_page": "24",
+          "quote": "Kurnool-JV Transmission Limited"
+        }
+      ]
+    },
+    {
+      "name": "National High Power Test Laboratory Private Limited",
+      "kind": "subsidiary",
+      "descriptor": "",
+      "entity": "National High Power Test Laboratory Private Limited",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 244,
+          "printed_page": "24",
+          "quote": "National High Power Test Laboratory Private Limited"
+        }
+      ]
+    },
+    {
+      "name": "North East Transmission Company Limited",
+      "kind": "subsidiary",
+      "descriptor": "",
+      "entity": "North East Transmission Company Limited",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 244,
+          "printed_page": "24",
+          "quote": "North East Transmission Company Limited"
+        }
+      ]
+    },
+    {
+      "name": "Parbati Koldam Transmission Company Limited",
+      "kind": "subsidiary",
+      "descriptor": "",
+      "entity": "Parbati Koldam Transmission Company Limited",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 244,
+          "printed_page": "24",
+          "quote": "Parbati Koldam Transmission Company Limited"
+        }
+      ]
+    },
+    {
+      "name": "Power Grid Limited",
+      "kind": "subsidiary",
+      "descriptor": "",
+      "entity": "Power Grid Limited",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 244,
+          "printed_page": "24",
+          "quote": "Power Grid Limited"
+        }
+      ]
+    },
+    {
+      "name": "Powergrid Barmer I Transmission Limited",
+      "kind": "subsidiary",
+      "descriptor": "",
+      "entity": "Powergrid Barmer I Transmission Limited",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 244,
+          "printed_page": "24",
+          "quote": "Powergrid Barmer I Transmission Limited"
+        }
+      ]
+    },
+    {
+      "name": "Powergrid Beawar Dausa Transmission Limited",
+      "kind": "subsidiary",
+      "descriptor": "",
+      "entity": "Powergrid Beawar Dausa Transmission Limited",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 244,
+          "printed_page": "24",
+          "quote": "Powergrid Beawar Dausa Transmission Limited"
+        }
+      ]
+    },
+    {
+      "name": "Powergrid Bikaner IV Transmission Limited",
+      "kind": "subsidiary",
+      "descriptor": "",
+      "entity": "Powergrid Bikaner IV Transmission Limited",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 244,
+          "printed_page": "24",
+          "quote": "Powergrid Bikaner IV Transmission Limited"
+        }
+      ]
+    },
+    {
+      "name": "Powergrid Dharmanagarh Transmission Limited",
+      "kind": "subsidiary",
+      "descriptor": "",
+      "entity": "Powergrid Dharmanagarh Transmission Limited",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 244,
+          "printed_page": "24",
+          "quote": "Powergrid Dharmanagarh Transmission Limited"
+        }
+      ]
+    },
+    {
+      "name": "Powergrid Ghor Transmission Limited",
+      "kind": "subsidiary",
+      "descriptor": "",
+      "entity": "Powergrid Ghor Transmission Limited",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 244,
+          "printed_page": "24",
+          "quote": "Powergrid Ghor Transmission Limited"
+        }
+      ]
+    },
+    {
+      "name": "Powergrid Khavda IV-E2 Power Transmission Limited",
+      "kind": "subsidiary",
+      "descriptor": "",
+      "entity": "Powergrid Khavda IV-E2 Power Transmission Limited",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 244,
+          "printed_page": "24",
+          "quote": "Powergrid Khavda IV-E2 Power Transmission Limited"
+        }
+      ]
+    },
+    {
+      "name": "Powergrid Koppal Gadag Augmentation Transmission Limited",
+      "kind": "subsidiary",
+      "descriptor": "",
+      "entity": "Powergrid Koppal Gadag Augmentation Transmission Limited",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 244,
+          "printed_page": "24",
+          "quote": "Powergrid Koppal Gadag Augmentation Transmission Limited"
+        }
+      ]
+    },
+    {
+      "name": "Powergrid Kudankulam Transmission Limited",
+      "kind": "subsidiary",
+      "descriptor": "",
+      "entity": "Powergrid Kudankulam Transmission Limited",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 244,
+          "printed_page": "24",
+          "quote": "Powergrid Kudankulam Transmission Limited"
+        }
+      ]
+    },
+    {
+      "name": "Powergrid Mandaur Transmission Limited",
+      "kind": "subsidiary",
+      "descriptor": "",
+      "entity": "Powergrid Mandaur Transmission Limited",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 244,
+          "printed_page": "24",
+          "quote": "Powergrid Mandaur Transmission Limited"
+        }
+      ]
+    },
+    {
+      "name": "Powergrid Menar Transmission Limited",
+      "kind": "subsidiary",
+      "descriptor": "",
+      "entity": "Powergrid Menar Transmission Limited",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 244,
+          "printed_page": "24",
+          "quote": "Powergrid Menar Transmission Limited"
+        }
+      ]
+    },
+    {
+      "name": "Powergrid Sitohi Transmission Limited",
+      "kind": "subsidiary",
+      "descriptor": "",
+      "entity": "Powergrid Sitohi Transmission Limited",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 244,
+          "printed_page": "24",
+          "quote": "Powergrid Sitohi Transmission Limited"
+        }
+      ]
+    },
+    {
+      "name": "Powergrid South Alipa",
+      "kind": "subsidiary",
+      "descriptor": "",
+      "entity": "Powergrid South Alipa",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 244,
+          "printed_page": "24",
+          "quote": "Powergrid South Alipa"
+        }
+      ]
+    },
+    {
+      "name": "Powergrid South Alipat Transmission Limited",
+      "kind": "subsidiary",
+      "descriptor": "",
+      "entity": "Powergrid South Alipat Transmission Limited",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 244,
+          "printed_page": "24",
+          "quote": "Powergrid South Alipat Transmission Limited"
+        }
+      ]
+    },
+    {
+      "name": "Powergrid West Central Transmission Limited",
+      "kind": "subsidiary",
+      "descriptor": "",
+      "entity": "Powergrid West Central Transmission Limited",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 244,
+          "printed_page": "24",
+          "quote": "Powergrid West Central Transmission Limited"
+        }
+      ]
+    },
+    {
+      "name": "Skirm Power Transmission Limited",
+      "kind": "subsidiary",
+      "descriptor": "",
+      "entity": "Skirm Power Transmission Limited",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 244,
+          "printed_page": "24",
+          "quote": "Skirm Power Transmission Limited"
+        }
+      ]
+    },
+    {
+      "name": "d Khavda IV-E2 Power Transmission Limited",
+      "kind": "subsidiary",
+      "descriptor": "",
+      "entity": "d Khavda IV-E2 Power Transmission Limited",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 244,
+          "printed_page": "24",
+          "quote": "d Khavda IV-E2 Power Transmission Limited"
+        }
+      ]
+    },
+    {
+      "name": "d Powergrid Ghor Transmission Limited",
+      "kind": "subsidiary",
+      "descriptor": "",
+      "entity": "d Powergrid Ghor Transmission Limited",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 244,
+          "printed_page": "24",
+          "quote": "d Powergrid Ghor Transmission Limited"
+        }
+      ]
+    },
+    {
+      "name": "id Barmer I Transmission Limited",
+      "kind": "subsidiary",
+      "descriptor": "",
+      "entity": "id Barmer I Transmission Limited",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 244,
+          "printed_page": "24",
+          "quote": "id Barmer I Transmission Limited"
+        }
+      ]
+    },
+    {
+      "name": "owergrid Bikaner IV Transmission Limited",
+      "kind": "subsidiary",
+      "descriptor": "",
+      "entity": "owergrid Bikaner IV Transmission Limited",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 244,
+          "printed_page": "24",
+          "quote": "owergrid Bikaner IV Transmission Limited"
+        }
+      ]
+    },
+    {
+      "name": "owergrid Khavda IV-E2 Power Transmission Limited",
+      "kind": "subsidiary",
+      "descriptor": "",
+      "entity": "owergrid Khavda IV-E2 Power Transmission Limited",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 244,
+          "printed_page": "24",
+          "quote": "owergrid Khavda IV-E2 Power Transmission Limited"
+        }
+      ]
+    },
+    {
+      "name": "owergrid Kudankulam Transmission Limited",
+      "kind": "subsidiary",
+      "descriptor": "",
+      "entity": "owergrid Kudankulam Transmission Limited",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 244,
+          "printed_page": "24",
+          "quote": "owergrid Kudankulam Transmission Limited"
+        }
+      ]
+    },
+    {
+      "name": "owergrid South Alipat Transmission Limited",
+      "kind": "subsidiary",
+      "descriptor": "",
+      "entity": "owergrid South Alipat Transmission Limited",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 244,
+          "printed_page": "24",
+          "quote": "owergrid South Alipat Transmission Limited"
+        }
+      ]
+    },
+    {
+      "name": "wergrid Ghor Transmission Limited",
+      "kind": "subsidiary",
+      "descriptor": "",
+      "entity": "wergrid Ghor Transmission Limited",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 244,
+          "printed_page": "24",
+          "quote": "wergrid Ghor Transmission Limited"
+        }
+      ]
+    },
+    {
+      "name": "Bihar Grid Company Limited",
+      "kind": "subsidiary",
+      "descriptor": "",
+      "entity": "Bihar Grid Company Limited",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 247,
+          "printed_page": "3",
+          "quote": "Bihar Grid Company Limited"
+        }
+      ]
+    },
+    {
+      "name": "Convergence Energy Services Limited",
+      "kind": "subsidiary",
+      "descriptor": "",
+      "entity": "Convergence Energy Services Limited",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 247,
+          "printed_page": "3",
+          "quote": "Convergence Energy Services Limited"
+        }
+      ]
+    },
+    {
+      "name": "Jabalpur Power Transmission Limited",
+      "kind": "subsidiary",
+      "descriptor": "",
+      "entity": "Jabalpur Power Transmission Limited",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 247,
+          "printed_page": "3",
+          "quote": "Jabalpur Power Transmission Limited"
+        }
+      ]
+    },
+    {
+      "name": "Powergrid ER NER Transmission Limited",
+      "kind": "subsidiary",
+      "descriptor": "",
+      "entity": "Powergrid ER NER Transmission Limited",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 247,
+          "printed_page": "3",
+          "quote": "Powergrid ER NER Transmission Limited"
+        }
+      ]
+    },
+    {
+      "name": "Powergrid Himachal Transmission Limited",
+      "kind": "subsidiary",
+      "descriptor": "",
+      "entity": "Powergrid Himachal Transmission Limited",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 247,
+          "printed_page": "3",
+          "quote": "Powergrid Himachal Transmission Limited"
+        }
+      ]
+    },
+    {
+      "name": "Powergrid Infrastructure Investment Trust",
+      "kind": "subsidiary",
+      "descriptor": "",
+      "entity": "Powergrid Infrastructure Investment Trust",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 247,
+          "printed_page": "3",
+          "quote": "POWERGRID Infrastructure Investment Trust"
+        }
+      ]
+    },
+    {
+      "name": "Powergrid Uchchhral Transmission Limited",
+      "kind": "subsidiary",
+      "descriptor": "",
+      "entity": "Powergrid Uchchhral Transmission Limited",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 247,
+          "printed_page": "3",
+          "quote": "Powergrid Uchchhral Transmission Limited"
+        }
+      ]
+    },
+    {
+      "name": "Warora Transmission Limited",
+      "kind": "subsidiary",
+      "descriptor": "",
+      "entity": "Warora Transmission Limited",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 247,
+          "printed_page": "3",
+          "quote": "Warora Transmission Limited"
+        }
+      ]
+    },
+    {
+      "name": "d Powergrid Himachal Transmission Limited",
+      "kind": "subsidiary",
+      "descriptor": "",
+      "entity": "d Powergrid Himachal Transmission Limited",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 247,
+          "printed_page": "3",
+          "quote": "d Powergrid Himachal Transmission Limited"
+        }
+      ]
+    },
+    {
+      "name": "ower Grid of lodia Limited",
+      "kind": "subsidiary",
+      "descriptor": "",
+      "entity": "ower Grid of lodia Limited",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 274,
+          "printed_page": "19",
+          "quote": "ower Grid of lodia Limited"
+        }
+      ]
+    },
+    {
+      "name": "ERS",
+      "kind": "subsidiary",
+      "descriptor": "",
+      "entity": "ERS",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 356,
+          "printed_page": "4",
+          "quote": "ers"
+        }
+      ]
+    }
+  ]
+}

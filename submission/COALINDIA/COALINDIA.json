@@ -1,0 +1,3284 @@
+{
+  "ticker": "COALINDIA",
+  "period": "FY25",
+  "one_liner": "Coal India Limited produces coal through its subsidiaries Mahanadi Coalfields Limited, Central Coalfields Limited, Northern Coalfields Limited, Western Coalfields Limited, South Eastern Coalfields Limited, Bharat Coking Coal Limited and Eastern Coalfields Limited and sells it to power and non-regulated sectors.",
+  "summary": "Coal India Limited’s seven mining subsidiaries operate a mix of underground, opencast and mixed mines across India, collectively producing 781.06 MT of coal in FY 2024-25. The consolidated off-take reached 762.98 MT, with the majority supplied to the power sector and a growing share to non-regulated consumers. Sales generated gross revenue of ₹1,91,357 crore, while the group recorded a profit before tax of ₹46,966.19 crore. The company’s operations are supported by extensive mine projects, mechanised loading systems and consumer-focused supply mechanisms.",
+  "segments": [],
+  "items": [
+    {
+      "name": "Ammonia and Urea",
+      "kind": "product_or_service",
+      "descriptor": "production of ammonia and urea",
+      "entity": "company",
+      "status": "planned",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 18,
+          "printed_page": "580",
+          "quote": "Production of Ammonia and Urea (yet to commence)"
+        }
+      ]
+    },
+    {
+      "name": "Thermal power",
+      "kind": "business_line",
+      "descriptor": "thermal power generation facilities",
+      "entity": "company",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 22,
+          "printed_page": "02/03",
+          "quote": "Coal gasification Pump storage systems Thermal power Empowered by a strong balance sheet, surge in production volumes highest credit ratings and consistent dividend payout since IPO CIL is energising Viksit Bharat sustainably."
+        },
+        {
+          "pdf_page": 206,
+          "printed_page": "370",
+          "quote": "The company has also envisaged for investing substantial amount in different schemes in 2025-26 such as development of railway infrastructure project, solar power, Thermal Power Plants, Coal Bed Methane (CBM), revival of fertilizer plants etc."
+        }
+      ]
+    },
+    {
+      "name": "eco-parks",
+      "kind": "asset",
+      "descriptor": "CIL has established 33 Eco-parks & Mine Tourism & eco-restoration sites on date",
+      "entity": "company",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 92,
+          "printed_page": "142",
+          "quote": "CIL has established 33 Eco-parks & Mine Tourism & eco-restoration sites on date"
+        },
+        {
+          "pdf_page": 28,
+          "printed_page": "15",
+          "quote": "eco-parks completed"
+        }
+      ]
+    },
+    {
+      "name": "solar project at Khavda",
+      "kind": "other",
+      "descriptor": "solar project at Khavda secured at H 2.55/kWh",
+      "entity": "company",
+      "status": "planned",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 28,
+          "printed_page": "14/15",
+          "quote": "solar project at Khavda secured at H 2.55/kWh"
+        }
+      ]
+    },
+    {
+      "name": "Solar capacity - 209.08 MW",
+      "kind": "asset",
+      "descriptor": "Solar capacity 209.08 MW",
+      "entity": "company",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 29,
+          "printed_page": "16/17",
+          "quote": "Solar capacity - 209.08 MW"
+        }
+      ]
+    },
+    {
+      "name": "non-coking coal",
+      "kind": "product_or_service",
+      "descriptor": "However, most of this is non-coking coal (around 89%), with limited availability of high-quality coking coal, resulting in continued dependence on imports for the steel industry.",
+      "entity": "company",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 31,
+          "printed_page": "21",
+          "quote": "oven reserves. However, most of this is non-coking coal (around 89%), with limited availability of high-quality coking coal, resulting in continued dependence on imports for the steel industry."
+        }
+      ]
+    },
+    {
+      "name": "renewable energy",
+      "kind": "business_line",
+      "descriptor": "renewable energy business",
+      "entity": "company",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 222,
+          "printed_page": "402",
+          "quote": "two subsidiaries are engaged in manufacturing solar value chain (ingot-wafer-cell module) and renewable energy business"
+        },
+        {
+          "pdf_page": 31,
+          "printed_page": "21",
+          "quote": "Our diversification into coal gas, coal bed methane (CBM), and renewable energy aligns with emerging policy incentives"
+        },
+        {
+          "pdf_page": 257,
+          "printed_page": "472",
+          "quote": "renewable energy business"
+        }
+      ]
+    },
+    {
+      "name": "Vigilance Division",
+      "kind": "business_line",
+      "descriptor": "CIL Vigilance Division",
+      "entity": "company",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 66,
+          "printed_page": "90/91",
+          "quote": "CIL Vigilance Division"
+        },
+        {
+          "pdf_page": 100,
+          "printed_page": "158/159",
+          "quote": "CIL Vigilance Division"
+        },
+        {
+          "pdf_page": 37,
+          "printed_page": "32/33",
+          "quote": "Vigilance Division"
+        }
+      ]
+    },
+    {
+      "name": "Outbound Training program for Women Executives",
+      "kind": "philanthropy",
+      "descriptor": "Outbound Training program for Women Executives — reported activity",
+      "entity": "company",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 38,
+          "printed_page": "35",
+          "quote": "Outbound Training program for Women Executives"
+        }
+      ]
+    },
+    {
+      "name": "Ropan Abhiyaan: Satgram Sripur Area ECL",
+      "kind": "philanthropy",
+      "descriptor": "Ropan Abhiyaan: Satgram Sripur Area ECL (reported activity)",
+      "entity": "company",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 38,
+          "printed_page": "34",
+          "quote": "Ropan Abhiyaan: Satgram Sripur Area ECL"
+        }
+      ]
+    },
+    {
+      "name": "Kaniha Open cast Project",
+      "kind": "business_line",
+      "descriptor": "open cast mining project",
+      "entity": "MCL",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 41,
+          "printed_page": "40",
+          "quote": "During his successful stint as General manager at MCL, he was responsible for successful opening and operations of ‘Kaniha Open cast Project’ from March, 2010."
+        }
+      ]
+    },
+    {
+      "name": "New Railway Siding No. 9",
+      "kind": "business_line",
+      "descriptor": "commencement of New Railway Siding No.",
+      "entity": "company",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 41,
+          "printed_page": "40",
+          "quote": "commencement of New Railway Siding No."
+        }
+      ]
+    },
+    {
+      "name": "Padmapur Opencast",
+      "kind": "business_line",
+      "descriptor": "opencast mining project",
+      "entity": "company",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 41,
+          "printed_page": "40",
+          "quote": "hattrick for two projects i.e., Padmapur Opencast, WCL between 1996 and"
+        }
+      ]
+    },
+    {
+      "name": "Pakribarwadih mines",
+      "kind": "business_line",
+      "descriptor": "commencement of coal mining operations at Pakribarwadih mines, Hazaribagh",
+      "entity": "company",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 41,
+          "printed_page": "40",
+          "quote": "commencement of coal mining operations at Pakribarwadih mines, Hazaribagh"
+        }
+      ]
+    },
+    {
+      "name": "2X800 MW thermal power plant",
+      "kind": "asset",
+      "descriptor": "thermal plant of 2X800 MW in first phase",
+      "entity": "company",
+      "status": "planned",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 46,
+          "printed_page": "50/51",
+          "quote": "thermal plant of 2X800 MW in first phase"
+        }
+      ]
+    },
+    {
+      "name": "Coal to Chemicals",
+      "kind": "business_line",
+      "descriptor": "Coal to Chemicals diversification venture",
+      "entity": "company",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 46,
+          "printed_page": "50/51",
+          "quote": "Diversification Ventures Coal to Chemicals: Coal gasification is a diversification venture that your company is pursuing strongly."
+        }
+      ]
+    },
+    {
+      "name": "Curtin University collaboration",
+      "kind": "research_platform",
+      "descriptor": "CIL has signed a MoU with Curtin University, Australia for collaboration in the Critical Minerals Sector.",
+      "entity": "company",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 46,
+          "printed_page": "51",
+          "quote": "CIL has signed a MoU with Curtin University, Australia for collaboration in the Critical Minerals Sector."
+        }
+      ]
+    },
+    {
+      "name": "Khattali Chhoti Graphite block",
+      "kind": "asset",
+      "descriptor": "One in Khattali Chhoti Graphite block in Madhya Pradesh",
+      "entity": "company",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 46,
+          "printed_page": "51",
+          "quote": "One in Khattali Chhoti Graphite block in Madhya Pradesh"
+        }
+      ]
+    },
+    {
+      "name": "Non-Ferrous Materials Technology Development Centre MoU",
+      "kind": "research_platform",
+      "descriptor": "CIL has signed MoU with Non-Ferrous Materials Technology Development Centre, Hyderabad for R&D, demonstration and commercial level projects.",
+      "entity": "company",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 46,
+          "printed_page": "51",
+          "quote": "CIL has signed MoU with Non-Ferrous Materials Technology Development Centre, Hyderabad for R&D, demonstration and commercial level projects."
+        }
+      ]
+    },
+    {
+      "name": "Oranga-Revatipur Graphite and Vanadium block",
+      "kind": "asset",
+      "descriptor": "One in Khattali Chhoti Graphite block in Madhya Pradesh and the other is Oranga-Revatipur Graphite and Vanadium block in Chhattisgarh recently.",
+      "entity": "company",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 46,
+          "printed_page": "51",
+          "quote": "One in Khattali Chhoti Graphite block in Madhya Pradesh and the other is Oranga-Revatipur Graphite and Vanadium block in Chhattisgarh recently."
+        }
+      ]
+    },
+    {
+      "name": "Badhte Kadam",
+      "kind": "philanthropy",
+      "descriptor": "Projects like Badhte Kadam for clubfoot correction, Project Samriddhi for tribal nursing skilling, mobility aid camps, and distribution of assistive devices further strengthened community healthcare.",
+      "entity": "company",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 47,
+          "printed_page": "52",
+          "quote": "Projects like Badhte Kadam for clubfoot correction, Project Samriddhi for tribal nursing skilling, mobility aid camps, and distribution of assistive devices further strengthened community healthcare."
+        }
+      ]
+    },
+    {
+      "name": "National Coal Mines Safety Report Portal",
+      "kind": "other",
+      "descriptor": "portal for reporting coal mine accidents",
+      "entity": "company",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 47,
+          "printed_page": "53",
+          "quote": "CIL under the guidance of the High- Level Expert Committee on Safety in Coal Mines, developed the National Coal Mines Safety Report Portal."
+        }
+      ]
+    },
+    {
+      "name": "Project Samriddhi",
+      "kind": "philanthropy",
+      "descriptor": "Projects like Badhte Kadam for clubfoot correction, Project Samriddhi for tribal nursing skilling, mobility aid camps, and distribution of assistive devices further strengthened community healthcare.",
+      "entity": "company",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 47,
+          "printed_page": "52",
+          "quote": "Projects like Badhte Kadam for clubfoot correction, Project Samriddhi for tribal nursing skilling, mobility aid camps, and distribution of assistive devices further strengthened community healthcare."
+        }
+      ]
+    },
+    {
+      "name": "Sindoor Park",
+      "kind": "asset",
+      "descriptor": "eco-park in Jhanjra Area",
+      "entity": "ECL",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 47,
+          "printed_page": "52",
+          "quote": "During 2024-25 one eco-park named ‘Sindoor Park’ was developed in Jhanjra Area of ECL Ha taking the total to 33 such eco-parks."
+        }
+      ]
+    },
+    {
+      "name": "Thalassemia Bal Sewa Yojana",
+      "kind": "philanthropy",
+      "descriptor": "Flagship project Thalassemia Bal Sewa Yojana helped 700 ailing children.",
+      "entity": "company",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 47,
+          "printed_page": "52",
+          "quote": "Flagship project Thalassemia Bal Sewa Yojana helped 700 ailing children."
+        }
+      ]
+    },
+    {
+      "name": "cage fish farming projects",
+      "kind": "product_or_service",
+      "descriptor": "aquaculture projects using cages",
+      "entity": "company",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 47,
+          "printed_page": "52",
+          "quote": "CIL is pursuing 7 cage fish farming projects"
+        }
+      ]
+    },
+    {
+      "name": "mine closure portal",
+      "kind": "asset",
+      "descriptor": "portal for monitoring mine closure activities",
+      "entity": "company",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 47,
+          "printed_page": "52",
+          "quote": "A mine closure portal for monitoring of mine closure activities was launched"
+        }
+      ]
+    },
+    {
+      "name": "1500 Seater Auditorium at Centenary Building",
+      "kind": "philanthropy",
+      "descriptor": "Seater Auditorium in the Centenary Building at its Dhanbad campus (Jharkhand) at Coal Bhawan, CIL HQ , Kolkata today.",
+      "entity": "company",
+      "status": "aspirational",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 50,
+          "printed_page": "58/59",
+          "quote": "Coal India inks MoU with IIT(ISM) Coal India Ltd signed an MoU with Indian Institute of Technology (ISM) , Dhanbad for setting up of a state- of-the-art 1500 Seater Auditorium in the Centenary Building at its Dhanbad campus (Jharkhand) at Coal Bhawan, CIL HQ , Kolkata today."
+        }
+      ]
+    },
+    {
+      "name": "Centre for Clean Coal Energy and Net Zero (CLEANZ)",
+      "kind": "research_platform",
+      "descriptor": "IIT Hyderabad Sign MoU to establish Centre for Clean Coal Energy and Net Zero (Cleanz) Coal India Limited has inked a Memorandum of Understanding (MoU) with IIT Hyderabad to",
+      "entity": "company",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 50,
+          "printed_page": "58",
+          "quote": "IIT Hyderabad Sign MoU to establish Centre for Clean Coal Energy and Net Zero (Cleanz) Coal India Limited has inked a Memorandum of Understanding (MoU) with IIT Hyderabad to establish the Centre of Clean Coal Energy & Net Zero (CLEANZ)."
+        },
+        {
+          "pdf_page": 208,
+          "printed_page": "375",
+          "quote": "MoU signed with IIT, Hyderabad for establishing a Centre of Clean Coal Energy and Net Zero (CLEANZ)."
+        }
+      ]
+    },
+    {
+      "name": "Coal India Ltd",
+      "kind": "philanthropy",
+      "descriptor": "Coal India inks MoU with IIT(ISM) Coal India Ltd signed an MoU with Indian Institute of Technology (ISM) , Dhanbad for setting up of a state- of-the-art 1500 Seater Auditorium in the Centenary",
+      "entity": "company",
+      "status": "aspirational",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 50,
+          "printed_page": "58/59",
+          "quote": "Coal India inks MoU with IIT(ISM) Coal India Ltd signed an MoU with Indian Institute of Technology (ISM) , Dhanbad for setting up of a state- of-the-art 1500 Seater Auditorium in the Centenary Building at its Dhanbad campus (Jharkhand) at Coal Bhawan, CIL HQ , Kolkata today."
+        }
+      ]
+    },
+    {
+      "name": "Howrah Bridge Coal India Limited",
+      "kind": "philanthropy",
+      "descriptor": "Coal India to light up Howrah Bridge Coal India Limited has signed a Memorandum of Understanding (MoU) with Syama Prasad Mookerjee Port (SMPK), Kolkata, for the solar-powered illumination of the",
+      "entity": "company",
+      "status": "aspirational",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 50,
+          "printed_page": "58/59",
+          "quote": "Coal India to light up Howrah Bridge Coal India Limited has signed a Memorandum of Understanding (MoU) with Syama Prasad Mookerjee Port (SMPK), Kolkata, for the solar-powered illumination of the iconic Rabindra Setu (Howrah Bridge) -the 7th largest cantilever bridge in the world."
+        }
+      ]
+    },
+    {
+      "name": "Joint Venture for Pumped Storage Projects",
+      "kind": "business_line",
+      "descriptor": "This collaboration aims to form a Joint Venture Company to develop, own, operate, and maintain Pumped Storage Projects (PSP) and other Hydro -Projects marking",
+      "entity": "company",
+      "status": "aspirational",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 50,
+          "printed_page": "59",
+          "quote": "This collaboration aims to form a Joint Venture Company to develop, own, operate, and maintain Pumped Storage Projects (PSP) and other Hydro -Projects marking a significant step toward India’s transition to a cleaner and more sustainable energy future."
+        }
+      ]
+    },
+    {
+      "name": "solar-powered illumination of Howrah Bridge",
+      "kind": "philanthropy",
+      "descriptor": "Port (SMPK), Kolkata, for the solar-powered illumination of the iconic Rabindra Setu (Howrah Bridge)",
+      "entity": "company",
+      "status": "aspirational",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 50,
+          "printed_page": "58",
+          "quote": "Coal India Limited has signed a Memorandum of Understanding (MoU) with Syama Prasad Mookerjee Port (SMPK), Kolkata, for the solar-powered illumination of the iconic Rabindra Setu (Howrah Bridge)"
+        }
+      ]
+    },
+    {
+      "name": "50 MW Solar Power Plant",
+      "kind": "asset",
+      "descriptor": "MW Solar Power Plant",
+      "entity": "Northern Coalfields Limited",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 52,
+          "printed_page": "50",
+          "quote": "Capital 06 Human Capital Nigahi 50 MW Solar Power Plant"
+        },
+        {
+          "pdf_page": 208,
+          "printed_page": "375",
+          "quote": "50 MW Solar Power Plant commissioned in Northern Coalfields Limited."
+        }
+      ]
+    },
+    {
+      "name": "MW Solar Power Plant",
+      "kind": "asset",
+      "descriptor": "MW Solar Power Plant — plant project",
+      "entity": "company",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 52,
+          "printed_page": "50",
+          "quote": "MW Solar Power Plant"
+        },
+        {
+          "pdf_page": 60,
+          "printed_page": "78/79",
+          "quote": "MW Solar Power Plant"
+        },
+        {
+          "pdf_page": 208,
+          "printed_page": "374/375",
+          "quote": "MW Solar Power Plant"
+        }
+      ]
+    },
+    {
+      "name": "National Centre for Coal and Energy Research (NaCCER)",
+      "kind": "research_platform",
+      "descriptor": "In FY 2024-25, the launch of the National Centre for Coal and Energy Research (NaCCER) at CMPDI, Ranchi, marked a major step towards sectoral collaboration.",
+      "entity": "CMPDI",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 180,
+          "printed_page": "318",
+          "quote": "CMPDI has established National Centre for Coal and Energy Research (NaCCER)- Phase-1 at CMPDI campus, Ranchi, which was inaugurated by Hon’ble Minister of Coal on 07.10.2024 for carrying out research in domains of coal and energy sector to sustainably meet the energy demand of the nation through"
+        },
+        {
+          "pdf_page": 55,
+          "printed_page": "69",
+          "quote": "In FY 2024-25, the launch of the National Centre for Coal and Energy Research (NaCCER) at CMPDI, Ranchi, marked a major step towards sectoral collaboration."
+        }
+      ]
+    },
+    {
+      "name": "Coal Beneficiation and Processing",
+      "kind": "product_or_service",
+      "descriptor": "Report 2024-25 Intellectual Capital Coal Beneficiation and Processing Infrastructure and Equipment Innovations Key Developments Longwall panel diagnostics through intrinsically safe data systems",
+      "entity": "company",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 56,
+          "printed_page": "70/71",
+          "quote": "Report 2024-25 Intellectual Capital Coal Beneficiation and Processing Infrastructure and Equipment Innovations Key Developments Longwall panel diagnostics through intrinsically safe data systems Tested edible oil-based agglomeration To boost equipment reliability, we have focused on strengthening"
+        }
+      ]
+    },
+    {
+      "name": "Natural bio-coagulants",
+      "kind": "product_or_service",
+      "descriptor": "5G connectivity experiments tailored to mining environments Used natural bio-coagulants to recover particles from washery wastewater.",
+      "entity": "company",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 56,
+          "printed_page": "70/71",
+          "quote": "5G connectivity experiments tailored to mining environments Used natural bio-coagulants to recover particles from washery wastewater."
+        }
+      ]
+    },
+    {
+      "name": "Virtual Reality Mine",
+      "kind": "asset",
+      "descriptor": "We have also brought in a Virtual Reality Mine Simulator.",
+      "entity": "company",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 56,
+          "printed_page": "70",
+          "quote": "We have also brought in a Virtual Reality Mine Simulator."
+        },
+        {
+          "pdf_page": 181,
+          "printed_page": "320/321",
+          "quote": "Development of Virtual Reality Mine Simulator (VRMS) for improving safety and productivity in coal mines."
+        }
+      ]
+    },
+    {
+      "name": "1×800 MW Brownfield Expansion at KaliSindh TPP",
+      "kind": "asset",
+      "descriptor": "management tendering in progress 1×800 MW Brownfield Expansion at KaliSindh TPP Key Highlights 01 02 03 We are developing three power projects through joint ventures Total planned capacity stands at",
+      "entity": "company",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 60,
+          "printed_page": "78/79",
+          "quote": "ndering in progress 1×800 MW Brownfield Expansion at KaliSindh TPP Key Highlights 01 02 03 We are developing three power projects through joint ve"
+        }
+      ]
+    },
+    {
+      "name": "20 MW Solar Power Plant at SECL Bhatgaon Area",
+      "kind": "asset",
+      "descriptor": "agreements are already in place 20 MW Solar Power Plant at SECL Bhatgaon Area Corporate Overview Statutory Reports Financial Statements Coal-to-Chemical Projects These projects support India’s",
+      "entity": "SECL",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 60,
+          "printed_page": "78/79",
+          "quote": "agreements are already in place 20 MW Solar Power Plant at SECL Bhatgaon Area Corporate Overview Statutory Reports Financial Statements Coal-to-Chemical Projects These projects support India’s national plan to gasify 100 million tonnes of coal by 2030 and help reduce reliance on imports."
+        }
+      ]
+    },
+    {
+      "name": "2×800 MW Brownfield Project at Chandrapura TPS",
+      "kind": "asset",
+      "descriptor": "MoU signed; working group formed 2×800 MW Brownfield Project at Chandrapura TPS 800 CIL & RRVUNL Rajasthan: Joint venture agreement finalised; project management tendering in progress 1×800 MW",
+      "entity": "company",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 60,
+          "printed_page": "78/79",
+          "quote": "MoU signed; working group formed 2×800 MW Brownfield Project at Chandrapura TPS 800 CIL & RRVUNL Rajasthan: Joint venture agreement finalised; project management tendering in progress 1×800 MW Brownfield Expansion at"
+        }
+      ]
+    },
+    {
+      "name": "2×800 MW Supercritical Thermal Power Plant Phase I",
+      "kind": "business_line",
+      "descriptor": "Assam and Haryana for Power offtake 2×800 MW Supercritical Thermal Power Plant Phase I 1,600 CIL & DVC Jharkhand",
+      "entity": "company",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 60,
+          "printed_page": "78/79",
+          "quote": "a for Power offtake 2×800 MW Supercritical Thermal Power Plant Phase I 1,600 CIL & DVC Jharkhand: MoU signed; working group formed 2×800 MW Brownfield"
+        }
+      ]
+    },
+    {
+      "name": "Ammonium Nitrate",
+      "kind": "product_or_service",
+      "descriptor": "MoU signed with state government Ammonium Nitrate JV share 51% 633.6 million Nm³ per year CGIL (with GAIL) West Bengal NDA signed with technology provider, selection in progress Synthetic Natural Gas",
+      "entity": "company",
+      "status": "planned",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 60,
+          "printed_page": "78/79",
+          "quote": "MoU signed with state government Ammonium Nitrate JV share 51% 633.6 million Nm³ per year CGIL (with GAIL) West Bengal NDA signed with technology provider, selection in progress Synthetic Natural Gas JV share 51% Under project planning CIL-BPCL (Planned) Maharashtra Joint venture to be formed after"
+        }
+      ]
+    },
+    {
+      "name": "BCGCL (with BHEL)",
+      "kind": "other",
+      "descriptor": "BCGCL with BHEL",
+      "entity": "company",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 60,
+          "printed_page": "78/79",
+          "quote": "Status 0.66 million tonnes per annum BCGCL (with BHEL) Odisha Four key packages under evaluation, MoU signed with state government Ammonium Nitrate JV share 51% 633.6 million Nm³ per year CGIL (with GAIL) West Bengal NDA signed with technology provider, selection in progress Synthetic Natural Gas"
+        }
+      ]
+    },
+    {
+      "name": "CGIL (with GAIL)",
+      "kind": "other",
+      "descriptor": "CGIL with GAIL",
+      "entity": "company",
+      "status": "planned",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 60,
+          "printed_page": "78/79",
+          "quote": "share 51% 633.6 million Nm³ per year CGIL (with GAIL) West Bengal NDA signed with technology provider, selection in progress Synthetic Natural Gas JV share 51% Under project planning CIL-BPCL (Planned) Maharashtra Joint venture to be formed after DPR completion Synthetic Natural Gas What We have"
+        }
+      ]
+    },
+    {
+      "name": "CIL-BPCL (Planned)",
+      "kind": "other",
+      "descriptor": "CIL BPCL joint venture planned",
+      "entity": "company",
+      "status": "planned",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 60,
+          "printed_page": "78/79",
+          "quote": "JV share 51% Under project planning CIL-BPCL (Planned) Maharashtra Joint venture to be formed after DPR completion Synthetic Natural Gas What We have Achieved Two joint venture companies have been formally set up Three coal- Nation’s first indigenously manufactured do cum electric rope shovel under"
+        }
+      ]
+    },
+    {
+      "name": "EV Payloader",
+      "kind": "product_or_service",
+      "descriptor": "to-chemical projects are currently under development We have secured early-stage regulatory and policy approvals EV Payloader EV Tripper 78 79",
+      "entity": "company",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 60,
+          "printed_page": "78/79",
+          "quote": "to-chemical projects are currently under development We have secured early-stage regulatory and policy approvals EV Payloader EV Tripper"
+        }
+      ]
+    },
+    {
+      "name": "EV Tripper",
+      "kind": "product_or_service",
+      "descriptor": "to-chemical projects are currently under development We have secured early-stage regulatory and policy approvals EV Payloader EV Tripper 78 79",
+      "entity": "company",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 60,
+          "printed_page": "78/79",
+          "quote": "to-chemical projects are currently under development We have secured early-stage regulatory and policy approvals EV Payloader EV Tripper"
+        }
+      ]
+    },
+    {
+      "name": "Mahanadi Basin Power Ltd",
+      "kind": "business_line",
+      "descriptor": "Description Capacity (MW) Status 1,600 Mahanadi Basin Power Ltd (an SPV of MCL) Odisha: Memorandums of Understanding (MoUs) signed with Assam and Haryana for Power offtake 2×800 MW Supercritical",
+      "entity": "MCL",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 60,
+          "printed_page": "78/79",
+          "quote": "Description Capacity (MW) Status 1,600 Mahanadi Basin Power Ltd (an SPV of MCL) Odisha: Memorandums of Understanding (MoUs) signed with Assam and Haryana for Power offtake 2×800 MW Supercritical Thermal Power Plant"
+        }
+      ]
+    },
+    {
+      "name": "NABL-accredited Rock Testing Laboratory",
+      "kind": "research_platform",
+      "descriptor": "rock testing laboratory to test strata strength",
+      "entity": "company",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 61,
+          "printed_page": "80/81",
+          "quote": "support systems Establishment of a NABL-accredited Rock Testing Laboratory to test strata strength 06 Water Danger and Monsoon Preparedness Objective Actions Seam-wise Water Danger Plans prepared and updated Prevent water ingress and manage monsoon-related risks Monsoon Action Plans put in place"
+        }
+      ]
+    },
+    {
+      "name": "Open Cast Projects (OCPs)",
+      "kind": "business_line",
+      "descriptor": "introduced at the start of every shift Open Cast Projects (OCPs) equipped with GPS tracking, proximity alert systems, and AI-enabled surveillance Safety audits conducted by implementing the protocols",
+      "entity": "company",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 61,
+          "printed_page": "80/81",
+          "quote": "introduced at the start of every shift Open Cast Projects (OCPs) equipped with GPS tracking, proximity alert systems, and AI-enabled surveillance Safety audits conducted by implementing the protocols of the Ministry of Coal (MoC), with outcomes submitted to the NCMSR portal Corporate Overview"
+        }
+      ]
+    },
+    {
+      "name": "Simulator-based training",
+      "kind": "other",
+      "descriptor": "simulator based training introduced in five subsidiaries",
+      "entity": "company",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 61,
+          "printed_page": "80/81",
+          "quote": "behaviour and operational capability Simulator-based training introduced in five subsidiaries Competency boards set up to certify equipment operators Customised safety sessions organised for frontline workers, committee members, and contract teams Video and animation modules used to explain safety"
+        }
+      ]
+    },
+    {
+      "name": "IIT (ISM), Dhanbad",
+      "kind": "asset",
+      "descriptor": "Location: IIT (ISM), Dhanbad Simulator and Vocational Training Objective : Enhance hands-on capabilities of HEMM operators and vocational workers across subsidiaries Leadership and Managerial",
+      "entity": "company",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 63,
+          "printed_page": "84/85",
+          "quote": "Location: IIT (ISM), Dhanbad Simulator and Vocational Training Objective : Enhance hands-on capabilities of HEMM operators and vocational workers across subsidiaries Leadership and Managerial Development B."
+        }
+      ]
+    },
+    {
+      "name": "Digital dispensaries",
+      "kind": "asset",
+      "descriptor": "Total of 26 Digital Dispensaries are functional as 31.03.2025 Eye refraction test for employees engaged in HEMM operation and drivers is done once in a year PME of contractual employees is done on",
+      "entity": "company",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 98,
+          "printed_page": "154/155",
+          "quote": "Total of 26 Digital Dispensaries are functional as 31.03.2025 Eye refraction test for employees engaged in HEMM operation and drivers is done once in a year PME of contractual employees is done on regular basis."
+        },
+        {
+          "pdf_page": 65,
+          "printed_page": "88/89",
+          "quote": "Hospitals Telemedicine and digital dispensaries expand reach into remote areas."
+        }
+      ]
+    },
+    {
+      "name": "Happy School Project WCL",
+      "kind": "philanthropy",
+      "descriptor": "school project in WCL",
+      "entity": "company",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 65,
+          "printed_page": "88/89",
+          "quote": "Happy School Project WCL Corporate Overview Statutory Reports Financial Statements Human Capital Miners’ Day Observed at CIL Headquarters On November 1st, 2025, Coal India Limited commemorated Miners’ Day at its corporate office in Kolkata."
+        }
+      ]
+    },
+    {
+      "name": "Occupational Health Services (OHS) framework",
+      "kind": "business_line",
+      "descriptor": "occupational health services framework",
+      "entity": "company",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 65,
+          "printed_page": "88/89",
+          "quote": "Coal India Limited Integrated Annual Report 2024-25 64 We have implemented a company-wide Occupational Health Services (OHS) framework, led by nodal officers in each subsidiary."
+        }
+      ]
+    },
+    {
+      "name": "Project Schools Fully Funded by CIL",
+      "kind": "philanthropy",
+      "descriptor": "during First Aid Training Program 66 Project Schools Fully Funded by CIL Educating Families of Employees and Local Communities Our scholarship programmes recognise academic excellence and support",
+      "entity": "company",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 65,
+          "printed_page": "88/89",
+          "quote": "during First Aid Training Program 66 Project Schools Fully Funded by CIL Educating Families of Employees and Local Communities Our scholarship programmes recognise academic excellence and support students from Class V through post-graduation."
+        }
+      ]
+    },
+    {
+      "name": "Swachhata Hi Sewa Campaign",
+      "kind": "philanthropy",
+      "descriptor": "“Swachhata Hi Sewa” Campaign Concludes with Tribute to Safai Karmis Hon’ble Coal Minister Honour Our Women Miners On October 2, 2024, Coal India Limited",
+      "entity": "company",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 65,
+          "printed_page": "88/89",
+          "quote": "“Swachhata Hi Sewa” Campaign Concludes with Tribute to Safai Karmis Hon’ble Coal Minister Honour Our Women Miners On October 2, 2024, Coal India Limited concluded the “Swachhata Hi Sewa” campaign with a special programme held at its premises."
+        }
+      ]
+    },
+    {
+      "name": "Effluent Treatment Plants",
+      "kind": "asset",
+      "descriptor": "159 Effluent Treatment Plants (ETPs) and 74 Sewage Treatment Plants (STPs) operational to manage and treat industrial and domestic effluents.",
+      "entity": "company",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 72,
+          "printed_page": "102",
+          "quote": "159 Effluent Treatment Plants (ETPs) and 74 Sewage Treatment Plants (STPs) operational to manage and treat industrial and domestic effluents."
+        },
+        {
+          "pdf_page": 92,
+          "printed_page": "142/143",
+          "quote": "Coal India Limited Integrated Annual Report 2024-25 d) 159 Effluent Treatment Plants (ETP) are set up in workshops."
+        }
+      ]
+    },
+    {
+      "name": "Sewage Treatment Plants",
+      "kind": "asset",
+      "descriptor": "159 Effluent Treatment Plants (ETPs) and 74 Sewage Treatment Plants (STPs) operational to manage and treat industrial and domestic effluents.",
+      "entity": "company",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 92,
+          "printed_page": "142",
+          "quote": "e) Effluent from residential colonies is also treated through conventional means as well as designated 74 Sewage Treatment Plants (STPs) in townships."
+        },
+        {
+          "pdf_page": 72,
+          "printed_page": "102",
+          "quote": "159 Effluent Treatment Plants (ETPs) and 74 Sewage Treatment Plants (STPs) operational to manage and treat industrial and domestic effluents."
+        }
+      ]
+    },
+    {
+      "name": "Corporate Social Responsibility Expenses",
+      "kind": "philanthropy",
+      "descriptor": "Corporate Social Responsibility Expenses — reported activity",
+      "entity": "company",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 75,
+          "printed_page": "109",
+          "quote": "Corporate Social Responsibility Expenses"
+        },
+        {
+          "pdf_page": 78,
+          "printed_page": "114",
+          "quote": "Corporate Social Responsibility Expenses"
+        }
+      ]
+    },
+    {
+      "name": "Evacuation facilitating Charges",
+      "kind": "product_or_service",
+      "descriptor": "Evacuation facilitating Charges — reported activity",
+      "entity": "company",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 75,
+          "printed_page": "109",
+          "quote": "Evacuation facilitating Charges"
+        }
+      ]
+    },
+    {
+      "name": "Loading and additional transportation charges",
+      "kind": "product_or_service",
+      "descriptor": "Loading and additional transportation charges — reported activity",
+      "entity": "company",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 75,
+          "printed_page": "109",
+          "quote": "Loading and additional transportation charges"
+        }
+      ]
+    },
+    {
+      "name": "Revenue from Other Services",
+      "kind": "product_or_service",
+      "descriptor": "Other Services",
+      "entity": "company",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 75,
+          "printed_page": "109",
+          "quote": "Revenue from Other Services"
+        }
+      ]
+    },
+    {
+      "name": "Subsidy for Sand Stowing & Protective Works",
+      "kind": "other",
+      "descriptor": "Subsidy for Sand Stowing & Protective Works — reported activity",
+      "entity": "company",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 75,
+          "printed_page": "109",
+          "quote": "Subsidy for Sand Stowing & Protective Works"
+        }
+      ]
+    },
+    {
+      "name": "Exploration and Evaluation Assets",
+      "kind": "asset",
+      "descriptor": "(c) Exploration and Evaluation Assets 3645.30 5049.58 4924.85",
+      "entity": "company",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 76,
+          "printed_page": "110/111",
+          "quote": "(c) Exploration and Evaluation Assets"
+        },
+        {
+          "pdf_page": 224,
+          "printed_page": "406",
+          "quote": "Exploration and evaluation assets comprise costs"
+        }
+      ]
+    },
+    {
+      "name": "Central Mine Planning & Design Institute Limited",
+      "kind": "subsidiary",
+      "descriptor": "Central Mine Planning & Design Institute Limited (CMPDIL)",
+      "entity": "Central Mine Planning & Design Institute Limited",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 240,
+          "printed_page": "438/439",
+          "quote": "Central Mine Planning & Design Institute Limited (CMPDIL)"
+        },
+        {
+          "pdf_page": 240,
+          "printed_page": "438/439",
+          "quote": "Central Mine Planning & Design Institute Limited (CMPDIL) Consultancy support in Coal and India 100%"
+        },
+        {
+          "pdf_page": 84,
+          "printed_page": "126/127",
+          "quote": "Central Mine Planning & Design Institute Limited"
+        }
+      ]
+    },
+    {
+      "name": "IB Valley Washery",
+      "kind": "asset",
+      "descriptor": "non-coking coal washery IB Valley Washery",
+      "entity": "company",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 84,
+          "printed_page": "126",
+          "quote": "Largest non-coking coal washery IB Valley Washery in MCL (10 MTY) commissioned."
+        }
+      ]
+    },
+    {
+      "name": "Oranga-Revatipur Graphite and Vanadium Block Mining Lease",
+      "kind": "asset",
+      "descriptor": "critical mineral mining lease for graphite and vanadium block",
+      "entity": "company",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 84,
+          "printed_page": "126",
+          "quote": "Acquisition of Critical Mineral Asset Mining Lease for Oranga- Revatipur Graphite and Vanadium Block of Chhattisgarh held under Ministry of Mines,GOI."
+        }
+      ]
+    },
+    {
+      "name": "Rail Infrastructure Development with IPRCL",
+      "kind": "asset",
+      "descriptor": "Rail Infrastructure Modernization MoU with IPRCL towards development of Rail Infrastructure of CIL and its Subsidiaries.",
+      "entity": "company",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 84,
+          "printed_page": "126/127",
+          "quote": "Rail Infrastructure Modernization MoU with IPRCL towards development of Rail Infrastructure of CIL and its Subsidiaries."
+        }
+      ]
+    },
+    {
+      "name": "Auction of coal linkages to Non-Regulated Sector (NRS)",
+      "kind": "business_line",
+      "descriptor": "auction of coal linkages to non-regulated sector",
+      "entity": "company",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 86,
+          "printed_page": "131",
+          "quote": "Auction of coal linkages to Non- Regulated Sector (NRS) notified by the government on 15.2.2016"
+        }
+      ]
+    },
+    {
+      "name": "Scheme for Harnessing and Allocating Koyala (Coal) Transparently in India (SHAKTI)",
+      "kind": "business_line",
+      "descriptor": "Scheme for Harnessing and Allocating Koyala (Coal) Transparently in India (SHAKTI), for Power Sector notified by the government on 22.05.2017",
+      "entity": "company",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 86,
+          "printed_page": "131",
+          "quote": "Scheme for Harnessing and Allocating Koyala (Coal) Transparently in India (SHAKTI), for Power Sector notified by the government on 22.05.2017"
+        }
+      ]
+    },
+    {
+      "name": "Single Window Mode agnostic e-auction policy",
+      "kind": "other",
+      "descriptor": "COAL MARKETING Single Window Mode agnostic e-auction policy has been implemented across coal companies from 01.03.2023.",
+      "entity": "company",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 86,
+          "printed_page": "130/131",
+          "quote": "COAL MARKETING Single Window Mode agnostic e-auction policy has been implemented across coal companies from 01.03.2023."
+        }
+      ]
+    },
+    {
+      "name": "Basantpur-Tapin Washery",
+      "kind": "asset",
+      "descriptor": "bidder for setting up of 4 MTY Basantpur-Tapin Washery, issuance of LoI for the establishment of 1.5 MTY Swang Washery and commencement of renovation work of Old Moonidih Washery were achieved in",
+      "entity": "company",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 87,
+          "printed_page": "132",
+          "quote": "bidder for setting up of 4 MTY Basantpur-Tapin Washery, issuance of LoI for the establishment of 1.5 MTY Swang Washery and commencement of renovation work of Old Moonidih Washery were achieved in 2024-25."
+        }
+      ]
+    },
+    {
+      "name": "Bhojudih Washery",
+      "kind": "asset",
+      "descriptor": "4.3 Long term demand committed through FSAs: In a bid to expand beneficiation capacity, the construction of the 2 MTY Bhojudih Washery is now in its final stages.",
+      "entity": "company",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 87,
+          "printed_page": "132/133",
+          "quote": "4.3 Long term demand committed through FSAs: In a bid to expand beneficiation capacity, the construction of the 2 MTY Bhojudih Washery is now in its final stages."
+        }
+      ]
+    },
+    {
+      "name": "Dugda Coal Washery",
+      "kind": "asset",
+      "descriptor": "The 2 MTPA Dugda Coal Washery of BCCL in Bokaro, Jharkhand was successfully monetized.",
+      "entity": "BCCL",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 87,
+          "printed_page": "132",
+          "quote": "The 2 MTPA Dugda Coal Washery of BCCL in Bokaro, Jharkhand was successfully monetized."
+        }
+      ]
+    },
+    {
+      "name": "Kathara Washery",
+      "kind": "asset",
+      "descriptor": "bidder for setting up of 3 MTY Kathara Washery, issuance of LoA to the selected bidder for setting up of 4 MTY Basantpur-Tapin Washery, issuance of LoI for the establishment of 1.5 MTY Swang Washery",
+      "entity": "company",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 87,
+          "printed_page": "132",
+          "quote": "bidder for setting up of 3 MTY Kathara Washery, issuance of LoA to the selected bidder for setting up of 4 MTY Basantpur-Tapin Washery, issuance of LoI for the establishment of 1.5 MTY Swang Washery and commencement of renovation work of Old Moonidih Washery were achieved in 2024-25."
+        }
+      ]
+    },
+    {
+      "name": "Swang Washery",
+      "kind": "asset",
+      "descriptor": "LoI for the establishment of 1.5 MTY Swang Washery and commencement of renovation work of Old Moonidih Washery were achieved in 2024-25.",
+      "entity": "company",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 87,
+          "printed_page": "132",
+          "quote": "LoI for the establishment of 1.5 MTY Swang Washery and commencement of renovation work of Old Moonidih Washery were achieved in 2024-25."
+        }
+      ]
+    },
+    {
+      "name": "Washed Coal",
+      "kind": "product_or_service",
+      "descriptor": "Washed Coal (Coking) Production -Subsidiary-wise production of Washed Coal (Coking) are detailed in Annexure 10A .",
+      "entity": "company",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 87,
+          "printed_page": "133",
+          "quote": "Washed Coal (Coking) Production -Subsidiary-wise production of Washed Coal (Coking) are detailed in Annexure 10A ."
+        }
+      ]
+    },
+    {
+      "name": "non-power",
+      "kind": "channel",
+      "descriptor": "CIL as well to cater to both power and non-power sector. As a result of conscious and continuous measures taken towards quality",
+      "entity": "company",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 87,
+          "printed_page": "132",
+          "quote": "CIL as well to cater to both power and non-power sector. As a result of conscious and continuous measures taken towards quality"
+        }
+      ]
+    },
+    {
+      "name": "power sector",
+      "kind": "channel",
+      "descriptor": "CIL’s efforts to supply quality coal to power sector consumers have been reinforced by the commercial operation of the 10 MTY Ib-Val",
+      "entity": "company",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 87,
+          "printed_page": "132",
+          "quote": "CIL’s efforts to supply quality coal to power sector consumers have been reinforced by the commercial operation of the 10 MTY Ib-Val"
+        }
+      ]
+    },
+    {
+      "name": "Tori-Shivpur New BG Line",
+      "kind": "other",
+      "descriptor": "1) Tori-Shivpur New BG Line",
+      "entity": "company",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 88,
+          "printed_page": "134/135",
+          "quote": "Funded by CIL on Deposit Basis: 1) Tori-Shivpur New BG Line: Double line (44.37 KM) was funded by CIL and commissioned in December, 2019."
+        }
+      ]
+    },
+    {
+      "name": "Floating solar plants over reservoirs and mine voids",
+      "kind": "asset",
+      "descriptor": "including the potential deployment of floating solar plants over reservoirs and mine voids, and installing solar arrays on stabilized overburden (OB) dumps of Coal India Subsidiary.",
+      "entity": "company",
+      "status": "aspirational",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 89,
+          "printed_page": "136",
+          "quote": "Further, CIL is exploring innovative solar solutions, including the potential deployment of floating solar plants over reservoirs and mine voids, and installing solar arrays on stabilized overburden (OB) dumps of Coal India Subsidiary."
+        }
+      ]
+    },
+    {
+      "name": "Solar & Renewable Energy segment",
+      "kind": "segment",
+      "descriptor": "The Solar & Renewable Energy segment remains the cornerstone of CIL’s sustainable growth vision.",
+      "entity": "company",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 207,
+          "printed_page": "372",
+          "quote": "The Solar & Renewable Energy segment, spearheaded by a target of achieving 3 GW of solar capacity by FY 2027–28, forms the cornerstone of CIL’s long-term decarbonization agenda."
+        },
+        {
+          "pdf_page": 89,
+          "printed_page": "136",
+          "quote": "The Solar & Renewable Energy segment remains the cornerstone of CIL’s sustainable growth vision."
+        }
+      ]
+    },
+    {
+      "name": "Solar arrays on stabilized overburden dumps",
+      "kind": "other",
+      "descriptor": "arrays on stabilized overburden (OB) dumps of Coal India Subsidiary.",
+      "entity": "company",
+      "status": "aspirational",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 89,
+          "printed_page": "136",
+          "quote": "Further, CIL is exploring innovative solar solutions, including the potential deployment of floating solar plants over reservoirs and mine voids, and installing solar arrays on stabilized overburden (OB) dumps of Coal India Subsidiary."
+        }
+      ]
+    },
+    {
+      "name": "CGIL with GAIL JV",
+      "kind": "business_line",
+      "descriptor": "The other JV, CGIL with GAIL was also incorporated on 25.03.2025 to develop a coal-to-synthetic natural gas (SNG) project in West Bengal with an annual capacity of 633.6 Million Nm3 of SNG.",
+      "entity": "company",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 90,
+          "printed_page": "138",
+          "quote": "The other JV, CGIL with GAIL was also incorporated on 25.03.2025 to develop a coal-to-synthetic natural gas (SNG) project in West Bengal with an annual capacity of 633.6 Million Nm3 of SNG."
+        }
+      ]
+    },
+    {
+      "name": "CIL-DVC JV",
+      "kind": "business_line",
+      "descriptor": "CIL-DVC JV: CIL has entered into one another strategic partnership with Damodar Valley Corporation (DVC) for setting up a Brownfield 2×800 MW Supercritical Thermal Power Project at the existing",
+      "entity": "company",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 90,
+          "printed_page": "138",
+          "quote": "CIL-DVC JV: CIL has entered into one another strategic partnership with Damodar Valley Corporation (DVC) for setting up a Brownfield 2×800 MW Supercritical Thermal Power Project at the existing Chandrapura TPS of DVC in Jharkhand."
+        }
+      ]
+    },
+    {
+      "name": "IREL MoU for critical minerals",
+      "kind": "research_platform",
+      "descriptor": "Memorandum of Understanding (MoU) with IREL (Indian Rare Earths Limited) for Cooperation/collaboration in identification/evaluation/finalization of potential critical mineral",
+      "entity": "company",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 90,
+          "printed_page": "139",
+          "quote": "On 06.01.2025, CIL signed a Memorandum of Understanding (MoU) with IREL (Indian Rare Earths Limited) for Cooperation/collaboration in identification/evaluation/finalization of potential critical mineral assets, including REE/ Beach sand minerals in India and abroad."
+        }
+      ]
+    },
+    {
+      "name": "Amrit Sarovar",
+      "kind": "asset",
+      "descriptor": "Amrit Sarovar: Amrit Sarovars are being developed in the mine voids and other water bodies available in command area of CIL.",
+      "entity": "company",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 92,
+          "printed_page": "143",
+          "quote": "Amrit Sarovar: Amrit Sarovars are being developed in the mine voids and other water bodies available in command area of CIL."
+        }
+      ]
+    },
+    {
+      "name": "Continuous Water Quality Monitoring stations",
+      "kind": "asset",
+      "descriptor": "of Continuous Water Quality Monitoring stations for real time monitoring of effluent water quality have been installed",
+      "entity": "company",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 92,
+          "printed_page": "142",
+          "quote": "of Continuous Water Quality Monitoring stations for real time monitoring of effluent water quality have been installed"
+        }
+      ]
+    },
+    {
+      "name": "Eco-parks & Mine",
+      "kind": "asset",
+      "descriptor": "CIL has established 33 Eco-parks & Mine Tourism & eco-restoration sites on date.",
+      "entity": "company",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 92,
+          "printed_page": "142",
+          "quote": "CIL has established 33 Eco-parks & Mine Tourism & eco-restoration sites on date."
+        }
+      ]
+    },
+    {
+      "name": "Hospital Management System",
+      "kind": "asset",
+      "descriptor": "The Hospital Management System (HMS) has been implemented across 21 hospitals within CIL and its subsidiaries.",
+      "entity": "company",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 92,
+          "printed_page": "143",
+          "quote": "The Hospital Management System (HMS) has been implemented across 21 hospitals within CIL and its subsidiaries."
+        }
+      ]
+    },
+    {
+      "name": "Mine Discharge Treatment Plants",
+      "kind": "asset",
+      "descriptor": "Mine Water Management: Mine Discharge Treatment Plants (MDTP) are installed in mines for treatment of discharged mine water on the surface for second phase treatment.",
+      "entity": "company",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 92,
+          "printed_page": "142/143",
+          "quote": "Mine Water Management: Mine Discharge Treatment Plants (MDTP) are installed in mines for treatment of discharged mine water on the surface for second phase treatment."
+        }
+      ]
+    },
+    {
+      "name": "Rain water harvesting structures",
+      "kind": "asset",
+      "descriptor": "On date, 526 rain water harvesting structures have been constructed for ground water recharge.",
+      "entity": "company",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 92,
+          "printed_page": "142",
+          "quote": "On date, 526 rain water harvesting structures have been constructed for ground water recharge."
+        }
+      ]
+    },
+    {
+      "name": "Vegetation Cover Mapping",
+      "kind": "research_platform",
+      "descriptor": "ERP, IT INTIATIVES, ELECTRONICS AND COMMUNICATION IN CIL In addition, CIL is also conducting Vegetation Cover Mapping of 19 major coalfields using satellite data every 3 years in phase wise manner.",
+      "entity": "company",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 92,
+          "printed_page": "142/143",
+          "quote": "ERP, IT INTIATIVES, ELECTRONICS AND COMMUNICATION IN CIL In addition, CIL is also conducting Vegetation Cover Mapping of 19 major coalfields using satellite data every 3 years in phase wise manner."
+        }
+      ]
+    },
+    {
+      "name": "AI Virtual Assistant for Procurement Manuals and DoP",
+      "kind": "product_or_service",
+      "descriptor": "SOFTWARE APPLICATIONS AI Virtual Assistant for Procurement Manuals and DoP: Coal India Limited has launched an AI-enabled Virtual Assistant ( chatbot.coalindia.in ) powered by Large Language Models",
+      "entity": "company",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 93,
+          "printed_page": "144/145",
+          "quote": "SOFTWARE APPLICATIONS AI Virtual Assistant for Procurement Manuals and DoP: Coal India Limited has launched an AI-enabled Virtual Assistant ( chatbot.coalindia.in ) powered by Large Language Models (LLMs) and built on a Retrieval- Augmented Generation (RAG) framework."
+        }
+      ]
+    },
+    {
+      "name": "GPS based Vehicle Tracking System (VTS) with geo fencing",
+      "kind": "product_or_service",
+      "descriptor": "Vehicle Tracking System(VTS) with geo fencing, Radio- Frequency Identification (RFID) based Boom barriers Systems, CCTV based e-monitoring system at vulnerable locations viz.",
+      "entity": "company",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 93,
+          "printed_page": "144",
+          "quote": "Global Positioning System (GPS) based Vehicle Tracking System(VTS) with geo fencing, Radio- Frequency Identification (RFID) based Boom barriers Systems, CCTV based e-monitoring system at vulnerable locations viz."
+        }
+      ]
+    },
+    {
+      "name": "Information Security Audit Services for Coal India Ltd., Kolkata",
+      "kind": "other",
+      "descriptor": "Information Security Audit Services for Coal India Ltd., Kolkata In compliance with the directives GoI, Coal India Limited undertook a comprehensive Information Security Audit of CIL Network to",
+      "entity": "company",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 93,
+          "printed_page": "145",
+          "quote": "Information Security Audit Services for Coal India Ltd., Kolkata"
+        }
+      ]
+    },
+    {
+      "name": "NIRIKSHAN - Online Inspection Management Portal",
+      "kind": "product_or_service",
+      "descriptor": "NIRIKSHAN – Online Inspection Management Portal",
+      "entity": "company",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 93,
+          "printed_page": "144",
+          "quote": "NIRIKSHAN – Online Inspection Management Portal:"
+        }
+      ]
+    },
+    {
+      "name": "RFID based Boom barriers Systems",
+      "kind": "product_or_service",
+      "descriptor": "radio-frequency identification based boom barrier systems",
+      "entity": "company",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 93,
+          "printed_page": "144",
+          "quote": "Global Positioning System (GPS) based Vehicle Tracking System(VTS) with geo fencing, Radio- Frequency Identification (RFID) based Boom barriers Systems, CCTV based e-monitoring system at vulnerable locations viz."
+        }
+      ]
+    },
+    {
+      "name": "Weighbridge Automation Systems",
+      "kind": "product_or_service",
+      "descriptor": "Implementation of Weighbridge Automation Systems A.",
+      "entity": "company",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 93,
+          "printed_page": "144/145",
+          "quote": "Implementation of Weighbridge Automation Systems A."
+        }
+      ]
+    },
+    {
+      "name": "CIL Safety Information System (CSIS)",
+      "kind": "asset",
+      "descriptor": "Monitoring of CIL Safety Information System (CSIS) & NCMSR portal database and ensuring timely updating and analysis of data.",
+      "entity": "company",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 94,
+          "printed_page": "146",
+          "quote": "Monitoring of CIL Safety Information System (CSIS) & NCMSR portal database and ensuring timely updating and analysis of data."
+        }
+      ]
+    },
+    {
+      "name": "NCMSR portal",
+      "kind": "asset",
+      "descriptor": "portal database for safety information",
+      "entity": "company",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 94,
+          "printed_page": "146",
+          "quote": "Monitoring of CIL Safety Information System (CSIS) & NCMSR portal database and ensuring timely updating and analysis of data."
+        }
+      ]
+    },
+    {
+      "name": "Safety Bulletin",
+      "kind": "product_or_service",
+      "descriptor": "Publication of Safety Bulletin for disseminating and sharing of knowledge in order to promote safety awareness and inculcate better safety culture.",
+      "entity": "company",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 94,
+          "printed_page": "146",
+          "quote": "Publication of Safety Bulletin for disseminating and sharing of knowledge in order to promote safety awareness and inculcate better safety culture."
+        }
+      ]
+    },
+    {
+      "name": "Safety & Rescue Division",
+      "kind": "business_line",
+      "descriptor": "Monsoon Preparation Plan (MAP): Micro- and macro-level monsoon action plans (MAPs) have been developed in accordance with directives issued by the Safety & Rescue Division of Coal India Limited (CIL).",
+      "entity": "company",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 95,
+          "printed_page": "148",
+          "quote": "Monsoon Preparation Plan (MAP): Micro- and macro-level monsoon action plans (MAPs) have been developed in accordance with directives issued by the Safety & Rescue Division of Coal India Limited (CIL)."
+        }
+      ]
+    },
+    {
+      "name": "Artificial Intelligent (AI) enabled Boom Barrier & Traffic Control System",
+      "kind": "product_or_service",
+      "descriptor": "Artificial Intelligent (AI) enabled Boom Barrier & Traffic Control System in OC mines.",
+      "entity": "company",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 96,
+          "printed_page": "150",
+          "quote": "Artificial Intelligent (AI) enabled Boom Barrier & Traffic Control System in OC mines."
+        }
+      ]
+    },
+    {
+      "name": "E-surveillance unit",
+      "kind": "product_or_service",
+      "descriptor": "An E-surveillance unit has been installed in mines for monitoring operations 24X7 in real time by using GPS/GPRS-based vehicle tracking, and geo-fencing system.",
+      "entity": "company",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 96,
+          "printed_page": "150",
+          "quote": "An E-surveillance unit has been installed in mines for monitoring operations 24X7 in real time by using GPS/GPRS-based vehicle tracking, and geo-fencing system."
+        }
+      ]
+    },
+    {
+      "name": "Emergency Escape Routes",
+      "kind": "other",
+      "descriptor": "Demarcating Emergency Escape Routes in belowground and training on evacuation.",
+      "entity": "company",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 96,
+          "printed_page": "150",
+          "quote": "Demarcating Emergency Escape Routes in belowground and training on evacuation."
+        }
+      ]
+    },
+    {
+      "name": "GPS based Operator Independent Truck Dispatch System (OITDS)",
+      "kind": "product_or_service",
+      "descriptor": "GPS based Operator Independent Truck Dispatch System (OITDS) in large OCPs for tracking movement of HEMMs inside OC mine.",
+      "entity": "company",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 96,
+          "printed_page": "150",
+          "quote": "GPS based Operator Independent Truck Dispatch System (OITDS) in large OCPs for tracking movement of HEMMs inside OC mine."
+        }
+      ]
+    },
+    {
+      "name": "Integrated command & control centre (ICCC)",
+      "kind": "product_or_service",
+      "descriptor": "Introduced Integrated command & control centre (ICCC) based e-surveillance system for efficient monitoring mining activities including safety.",
+      "entity": "company",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 96,
+          "printed_page": "150",
+          "quote": "Introduced Integrated command & control centre (ICCC) based e-surveillance system for efficient monitoring mining activities including safety."
+        }
+      ]
+    },
+    {
+      "name": "Mine Rescue Stations",
+      "kind": "asset",
+      "descriptor": "Subsidiaries of CIL maintain 6 Mine Rescue Stations (MRS), 16 Rescue Rooms-with-Refresher Training facilities (RRRT) and 16 Rescue Rooms (RR) at strategic locations to cater to the emergencies on",
+      "entity": "company",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 96,
+          "printed_page": "150",
+          "quote": "Subsidiaries of CIL maintain 6 Mine Rescue Stations (MRS), 16 Rescue Rooms-with-Refresher Training facilities (RRRT) and 16 Rescue Rooms (RR) at strategic locations to cater to the emergencies on 24X7 basis."
+        }
+      ]
+    },
+    {
+      "name": "Rescue Rooms",
+      "kind": "asset",
+      "descriptor": "6 Mine Rescue Stations (MRS), 16 Rescue Rooms-with-Refresher Training facilities (RRRT) and 16 Rescue Rooms (RR) at strategic locations to cater to the emergencies on 24X7 basis.",
+      "entity": "company",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 96,
+          "printed_page": "150",
+          "quote": "Subsidiaries of CIL maintain 6 Mine Rescue Stations (MRS), 16 Rescue Rooms-with-Refresher Training facilities (RRRT) and 16 Rescue Rooms (RR) at strategic locations to cater to the emergencies on 24X7 basis."
+        }
+      ]
+    },
+    {
+      "name": "COAL INDIA SCHOLARSHIP SCHEME",
+      "kind": "philanthropy",
+      "descriptor": "scholarship scheme for employees' children",
+      "entity": "company",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 98,
+          "printed_page": "154/155",
+          "quote": "COAL INDIA SCHOLARSHIP SCHEME: Every year two types of scholarships known as Merit scholarship and General scholarship are offered for Employees’ Children under specific terms and condition."
+        }
+      ]
+    },
+    {
+      "name": "General Scholarship",
+      "kind": "philanthropy",
+      "descriptor": "scholarship for students up to graduation level",
+      "entity": "company",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 98,
+          "printed_page": "154/155",
+          "quote": "- Female- 20,009 - Male-2,00,263 - Transgender-Nil General Scholarship is awarded to students studying Class-V onwards up to Graduation /Post- graduation level in any discipline subject to acquiring prescribed percentage of marks."
+        }
+      ]
+    },
+    {
+      "name": "Co-operative Credit Societies",
+      "kind": "business_line",
+      "descriptor": "co-operative credit societies across coal companies",
+      "entity": "company",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 99,
+          "printed_page": "156",
+          "quote": "Furthermore there are 111 Co-operative credit societies functioning across the coal companies."
+        }
+      ]
+    },
+    {
+      "name": "Coal India Sports Promotion Association",
+      "kind": "other",
+      "descriptor": "Sports Promotion Association supporting sports and culture",
+      "entity": "company",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 99,
+          "printed_page": "156",
+          "quote": "Sports Policy administered through Coal India Sports Promotion Association (CISPA), a body registered under the West Bengal Society’s Registration Act; and this association supports Sports and Culture by way of providing sponsorship/ financial assistance particularly in the coalfield regions."
+        }
+      ]
+    },
+    {
+      "name": "Primary Co-operative Stores",
+      "kind": "business_line",
+      "descriptor": "primary co-operative stores operating in coalfields",
+      "entity": "company",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 99,
+          "printed_page": "156",
+          "quote": "To provide essential commodities and consumer products at a cheaper rate in the collieries, Central Co- operative and Primary Co-operative Stores are operating in the Coalfield Areas of CIL."
+        }
+      ]
+    },
+    {
+      "name": "UTIITSL Portal",
+      "kind": "product_or_service",
+      "descriptor": "UTIITSL Portal for medical claim settlement",
+      "entity": "company",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 99,
+          "printed_page": "156/157",
+          "quote": "UTIITSL Portal: Coal India Ltd."
+        }
+      ]
+    },
+    {
+      "name": "CIL NTPC Urja Private Limited",
+      "kind": "subsidiary",
+      "descriptor": "Energy",
+      "entity": "CIL NTPC Urja Private Limited",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 241,
+          "printed_page": "440/441",
+          "quote": "CIL NTPC Urja Private Limited (CNUPL)"
+        },
+        {
+          "pdf_page": 103,
+          "printed_page": "164",
+          "quote": "NTPC Urja Private Limited"
+        },
+        {
+          "pdf_page": 284,
+          "printed_page": "527",
+          "quote": "iii) CIL NTPC Urja Private Ltd., a 50:50 joint venture company was formed on 27th April, 2010 between CIL & NTPC."
+        }
+      ]
+    },
+    {
+      "name": "Mine Development and Operation (MDO) contract",
+      "kind": "asset",
+      "descriptor": "Mine Development and Operation contract",
+      "entity": "company",
+      "status": "planned",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 126,
+          "printed_page": "210/211",
+          "quote": "MCL has not disclosed the details towards amount of H 35514.50 crore towards contractual commitment for the work relating to Mine Development and Operation (MDO) of Siarmal OCP awarded to Dilip Buildcon Limited to be executed in Mahalaxmi Area"
+        }
+      ]
+    },
+    {
+      "name": "Kolarpimpri Expansion OC Mine",
+      "kind": "asset",
+      "descriptor": "Kolarpimpri Expansion OC Mine — mining project",
+      "entity": "company",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 150,
+          "printed_page": "259",
+          "quote": "Kolarpimpri Expansion OC Mine"
+        }
+      ]
+    },
+    {
+      "name": "Progressive Mine",
+      "kind": "asset",
+      "descriptor": "Progressive Mine — mining project",
+      "entity": "company",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 153,
+          "printed_page": "264/265",
+          "quote": "Progressive Mine"
+        },
+        {
+          "pdf_page": 235,
+          "printed_page": "428/429",
+          "quote": "Progressive Mine"
+        },
+        {
+          "pdf_page": 273,
+          "printed_page": "504/505",
+          "quote": "Progressive Mine"
+        }
+      ]
+    },
+    {
+      "name": "Coal-Oil Agglomeration unit",
+      "kind": "other",
+      "descriptor": "unit for reducing ash content of coal",
+      "entity": "company",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 180,
+          "printed_page": "319",
+          "quote": "Coal-Oil Agglomeration unit fabricated, installed and commissioned at NML laboratory, Jamshedpur using three types of oils i.e."
+        }
+      ]
+    },
+    {
+      "name": "Digboi Forest Division",
+      "kind": "business_line",
+      "descriptor": "Based on, order of the Hon'ble court, Divisional Forest Officer, Digboi Division has directed to sell the coal and deposit the money under the custody of Margherita Treasury.",
+      "entity": "company",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 180,
+          "printed_page": "318",
+          "quote": "Under the project “Restoration of Orchid flora of Makum Coalfield areas of Digboi Forest Division”, fifteen hundred seedlings are multiplied and planted in re-vegetated mined out sites, nearby forest site and RFRI botanical garden with exhaustive care."
+        },
+        {
+          "pdf_page": 252,
+          "printed_page": "462",
+          "quote": "Based on, order of the Hon'ble court, Divisional Forest Officer, Digboi Division has directed to sell the coal and deposit the money under the custody of Margherita Treasury."
+        }
+      ]
+    },
+    {
+      "name": "Drop Test Facility for Pit Bottom Buffer",
+      "kind": "asset",
+      "descriptor": "facility for testing pit bottom buffer loads",
+      "entity": "company",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 180,
+          "printed_page": "319",
+          "quote": "a project, design and development of Drop Test Facility for Pit Bottom Buffer used in Underground Coal Mines in which a state-of-the-art drop test facility having mechanism for drop load adjustment (1 tonne – 10 tonne) and the drop height adjustment (0 – 3m) as per the requirement of the test has"
+        }
+      ]
+    },
+    {
+      "name": "Dumper Collision Avoidance System (DCAS)",
+      "kind": "other",
+      "descriptor": "collision avoidance system for dumper equipment",
+      "entity": "CCL",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 180,
+          "printed_page": "318",
+          "quote": "To ensure the safety and to protect loss of equipment in opencast mines, Dumper Collision Avoidance System (DCAS) has been developed indigenously and was successfully undertaken at KDH opencast mine of Central Coalfields Limited (CCL)."
+        }
+      ]
+    },
+    {
+      "name": "GB-InSAR system",
+      "kind": "research_platform",
+      "descriptor": "system to monitor deformation and generate early warning alerts",
+      "entity": "company",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 180,
+          "printed_page": "319",
+          "quote": "The indigenously developed GB-InSAR system has the capability to monitor deformation from a remote location."
+        }
+      ]
+    },
+    {
+      "name": "Ground Penetrating Radar",
+      "kind": "other",
+      "descriptor": "Introduction of modern technique like Ground Penetrating Radar for detection of old unapproachable water logged workings.",
+      "entity": "company",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 180,
+          "printed_page": "318",
+          "quote": "Introduction of modern technique like Ground Penetrating Radar for detection of old unapproachable water logged workings."
+        }
+      ]
+    },
+    {
+      "name": "Large-Scale Direct Shear Testing Machine",
+      "kind": "asset",
+      "descriptor": "Design and developed a Large- Scale Direct Shear Testing Machine at CMPDI for testing of representative OB dump samples from Opencast Coal mines",
+      "entity": "CMPDI",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 180,
+          "printed_page": "319",
+          "quote": "Design and developed a Large- Scale Direct Shear Testing Machine at CMPDI for testing of representative OB dump samples from Opencast Coal mines"
+        }
+      ]
+    },
+    {
+      "name": "Protective Water Barrier Pillar (PWBP)",
+      "kind": "other",
+      "descriptor": "protective barrier pillar against large water head",
+      "entity": "company",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 180,
+          "printed_page": "319",
+          "quote": "developed to assess the performance of PWBP (Protective Water Barrier Pillar) in underground coal mines."
+        }
+      ]
+    },
+    {
+      "name": "VOD measurement system",
+      "kind": "other",
+      "descriptor": "system to measure velocity of detonation",
+      "entity": "company",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 180,
+          "printed_page": "319",
+          "quote": "Under a project, a VOD measurement system was developed which can measure velocity of detonation of in-the-hole explosive as well as cartridges, booster and other accessories on the surface."
+        }
+      ]
+    },
+    {
+      "name": "Ventilation Fan Wind Power Recovery System",
+      "kind": "other",
+      "descriptor": "system to generate electricity from ventilation fan wind",
+      "entity": "company",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 180,
+          "printed_page": "319",
+          "quote": "a project, design and deployment of Ventilation Fan Wind Power Recovery System as an alternate source of Electrical Energy in Underground Coal Mines was undertaken in which a comprehensive analysis of generating electricity from unconventional wind sources, aiming to reduce CO2 emissions and"
+        }
+      ]
+    },
+    {
+      "name": "intrinsically safe data acquisition system",
+      "kind": "other",
+      "descriptor": "system for collecting longwall pressure and shearer position data",
+      "entity": "company",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 180,
+          "printed_page": "319",
+          "quote": "indigenous development of an intrinsically safe data acquisition system (both hardware and software) was undertaken for collecting longwall pressure data and shearer position data from Jhanjra longwall panel and transfer them to a surface computer"
+        }
+      ]
+    },
+    {
+      "name": "Automatic sprinkler system for dust suppression",
+      "kind": "asset",
+      "descriptor": "sprinkler system for dust suppression in open cast mines",
+      "entity": "company",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 181,
+          "printed_page": "321",
+          "quote": "Fixed type Automatic sprinkler system for dust suppression in Open Cast mines- Continuous monitoring of pump drive namely Start, Stop, Trip etc."
+        }
+      ]
+    },
+    {
+      "name": "Clean Energy Lab",
+      "kind": "research_platform",
+      "descriptor": "lab for CBM and shale gas studies",
+      "entity": "company",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 181,
+          "printed_page": "321",
+          "quote": "Clean Energy Lab carried out CBM and Shale Gas specific studies under Promotional/Regional/ Detailed Exploration Programme Hydrostatic drills with PCD bits for enhancing the productivity of exploratory drills have been introduced."
+        }
+      ]
+    },
+    {
+      "name": "Geotechnical Lab",
+      "kind": "asset",
+      "descriptor": "establishment of a Geotechnical Lab.",
+      "entity": "company",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 181,
+          "printed_page": "321",
+          "quote": "establishment of a Geotechnical Lab."
+        }
+      ]
+    },
+    {
+      "name": "Large Direct Shear Machine",
+      "kind": "asset",
+      "descriptor": "large direct shear testing machine",
+      "entity": "company",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 181,
+          "printed_page": "320/321",
+          "quote": "Statements Commissioning of the Large Direct Shear Machine (Largest in India) with 2500 kN Normal Shear Load Capacity through R & D Project (Designed in collaboration with IIT Delhi) and establishment of a Geotechnical Lab."
+        }
+      ]
+    },
+    {
+      "name": "ONGC-CIL JV",
+      "kind": "other",
+      "descriptor": "ONGC-CIL JV: Collaborative commercial development of CBM in Jharia & Raniganj coalfields by the consortium of CIL & ONGC.",
+      "entity": "company",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 181,
+          "printed_page": "321",
+          "quote": "ONGC-CIL JV: Collaborative commercial development of CBM in Jharia & Raniganj coalfields by the consortium of CIL & ONGC."
+        }
+      ]
+    },
+    {
+      "name": "knee and spinal smart protective devices",
+      "kind": "product_or_service",
+      "descriptor": "smart protective devices for miners",
+      "entity": "company",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 181,
+          "printed_page": "320",
+          "quote": "Design and development of knee and spinal smart protective devices for improving the health and safety of miners"
+        }
+      ]
+    },
+    {
+      "name": "CIL-ASHIS scheme",
+      "kind": "philanthropy",
+      "descriptor": "scholarship scheme",
+      "entity": "company",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 182,
+          "printed_page": "323",
+          "quote": "H 6.02 crore were utilized for CIL-ASHIS (Coal India Limited – Aayushmaan Shiksha Sahayata) scheme for providing a scholarship of H 45,000 per student to COVID orphans a."
+        }
+      ]
+    },
+    {
+      "name": "Innovative school bags",
+      "kind": "product_or_service",
+      "descriptor": "school bags",
+      "entity": "company",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 182,
+          "printed_page": "323",
+          "quote": "H 1.12 crore were utilized for Improvement of Spine and Optical health of children through distribution of 15000 Innovative school bags in ten districts of Uttar Pradesh CIL (HQ) undertakes CSR activities in whole of India including the areas covered by subsidiaries."
+        }
+      ]
+    },
+    {
+      "name": "LPG portable Cremators",
+      "kind": "product_or_service",
+      "descriptor": "portable cremators",
+      "entity": "company",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 182,
+          "printed_page": "323",
+          "quote": "crore were utilized for providing 19 LPG portable Cremators to 19 Municipal towns/ corporations/villages in 13 Costal Revenue district of Andhra Pradesh Budget for CSR activities of CIL is allocated based on 2% of average net Profit of CIL (standalone) for three immediately preceding financial"
+        }
+      ]
+    },
+    {
+      "name": "water treatment plant",
+      "kind": "asset",
+      "descriptor": "installation of sewage treatment plant, water treatment plant and gabion wall at Free Residential Learning Centre",
+      "entity": "company",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 182,
+          "printed_page": "323",
+          "quote": "installation of sewage treatment plant, water treatment plant and gabion wall at Free Residential Learning Centre"
+        }
+      ]
+    },
+    {
+      "name": "Coal Bed Methane (CBM)",
+      "kind": "business_line",
+      "descriptor": "solar power, Thermal Power Plants, Coal Bed Methane (CBM), revival of fertilizer plants etc.",
+      "entity": "company",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 206,
+          "printed_page": "370",
+          "quote": "The company has also envisaged for investing substantial amount in different schemes in 2025-26 such as development of railway infrastructure project, solar power, Thermal Power Plants, Coal Bed Methane (CBM), revival of fertilizer plants etc."
+        }
+      ]
+    },
+    {
+      "name": "Mass Production Technology",
+      "kind": "research_platform",
+      "descriptor": "technology for underground mines",
+      "entity": "company",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 206,
+          "printed_page": "371",
+          "quote": "CIL has planned to introduce more and more Mass Production Technology (MPT) in its UG mines and planned to implement at least 140 Continuous Miners (CM) for achieving the milestone of 100 Mt UG production."
+        }
+      ]
+    },
+    {
+      "name": "UG vision plan",
+      "kind": "business_line",
+      "descriptor": "plan for underground mining production",
+      "entity": "company",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 206,
+          "printed_page": "371",
+          "quote": "As such, CIL has already formulated UG vision plan wherein it has been envisaged 100 Mt production from its UG mines by 2034-35."
+        }
+      ]
+    },
+    {
+      "name": "3D Seismic Survey Technology",
+      "kind": "product_or_service",
+      "descriptor": "Increased use of hydrostatic drilling with PCD bits and 3D Seismic Survey Technology to achieve high rate in exploration have been planned.",
+      "entity": "company",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 207,
+          "printed_page": "372",
+          "quote": "Increased use of hydrostatic drilling with PCD bits and 3D Seismic Survey Technology to achieve high rate in exploration have been planned."
+        }
+      ]
+    },
+    {
+      "name": "Khavda Solar Park Project",
+      "kind": "asset",
+      "descriptor": "CIL has also made significant progress in the Khavda Solar Park Project located in Gujarat.",
+      "entity": "company",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 207,
+          "printed_page": "372",
+          "quote": "CIL has also made significant progress in the Khavda Solar Park Project located in Gujarat."
+        }
+      ]
+    },
+    {
+      "name": "PCD bits",
+      "kind": "product_or_service",
+      "descriptor": "Increased use of hydrostatic drilling with PCD bits and 3D Seismic Survey Technology to achieve high rate in exploration have been planned.",
+      "entity": "company",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 207,
+          "printed_page": "372",
+          "quote": "Increased use of hydrostatic drilling with PCD bits and 3D Seismic Survey Technology to achieve high rate in exploration have been planned."
+        }
+      ]
+    },
+    {
+      "name": "50 MW Solar Power Plant commissioned in Northern Coalfields Limited",
+      "kind": "asset",
+      "descriptor": "50 MW Solar Power Plant commissioned in Northern Coalfields Limited.",
+      "entity": "Northern Coalfields Limited",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 208,
+          "printed_page": "375",
+          "quote": "50 MW Solar Power Plant commissioned in Northern Coalfields Limited."
+        }
+      ]
+    },
+    {
+      "name": "Dugda Coal Washery of Bharat Coking Coal Limited",
+      "kind": "asset",
+      "descriptor": "Dugda Coal Washery",
+      "entity": "Bharat Coking Coal Limited",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 208,
+          "printed_page": "375",
+          "quote": "Dugda Coal Washery of Bharat Coking Coal Limited is the first washery in India going for monetization."
+        }
+      ]
+    },
+    {
+      "name": "Largest non-coking coal washery started in Mahanadi Coalfields Limited",
+      "kind": "asset",
+      "descriptor": "Largest non-coking coal washery started in Mahanadi Coalfields Limited.",
+      "entity": "Mahanadi Coalfields Limited",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 208,
+          "printed_page": "375",
+          "quote": "Largest non-coking coal washery started in Mahanadi Coalfields Limited."
+        }
+      ]
+    },
+    {
+      "name": "MOU with RRVUNL for renewable energy business",
+      "kind": "business_line",
+      "descriptor": "MOU with RRVUNL, Rajasthan for partnering in renewable energy business.",
+      "entity": "company",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 208,
+          "printed_page": "375",
+          "quote": "MOU with RRVUNL, Rajasthan for partnering in renewable energy business."
+        }
+      ]
+    },
+    {
+      "name": "E-Auction",
+      "kind": "channel",
+      "descriptor": "E-Auction sales, share of net sales",
+      "entity": "company",
+      "status": "current",
+      "revenue_share_pct": 16.0,
+      "sources": [
+        {
+          "pdf_page": 209,
+          "printed_page": "376/377",
+          "quote": "1% 2% 2% 16% FSA E-Auction Washed Coal (Coking) Net sales 79% Washed Coal (Non Coking) Other By Product"
+        },
+        {
+          "pdf_page": 209,
+          "printed_page": "376/377",
+          "quote": "E auction quantity registered a volume growth of 13%"
+        }
+      ]
+    },
+    {
+      "name": "FSA",
+      "kind": "channel",
+      "descriptor": "FSA sales, share of net sales",
+      "entity": "company",
+      "status": "current",
+      "revenue_share_pct": 79.0,
+      "sources": [
+        {
+          "pdf_page": 209,
+          "printed_page": "376/377",
+          "quote": "1% 2% 2% 16% FSA E-Auction Washed Coal (Coking) Net sales 79% Washed Coal (Non Coking) Other By Product"
+        },
+        {
+          "pdf_page": 209,
+          "printed_page": "376/377",
+          "quote": "FSA sales decreased by C 2,085 crore as compared"
+        }
+      ]
+    },
+    {
+      "name": "Other By Product",
+      "kind": "product_or_service",
+      "descriptor": "Other By Product sales, share of net sales",
+      "entity": "company",
+      "status": "current",
+      "revenue_share_pct": 1.0,
+      "sources": [
+        {
+          "pdf_page": 209,
+          "printed_page": "376/377",
+          "quote": "1% 2% 2% 16% FSA E-Auction Washed Coal (Coking) Net sales 79% Washed Coal (Non Coking) Other By Product"
+        }
+      ]
+    },
+    {
+      "name": "Washed Coal (Coking)",
+      "kind": "product_or_service",
+      "descriptor": "Washed Coal (Coking) sales, share of net sales",
+      "entity": "company",
+      "status": "current",
+      "revenue_share_pct": 2.0,
+      "sources": [
+        {
+          "pdf_page": 209,
+          "printed_page": "376/377",
+          "quote": "1% 2% 2% 16% FSA E-Auction Washed Coal (Coking) Net sales 79% Washed Coal (Non Coking) Other By Product"
+        }
+      ]
+    },
+    {
+      "name": "Washed Coal (Non Coking)",
+      "kind": "product_or_service",
+      "descriptor": "Washed Coal (Non Coking) sales, share of net sales",
+      "entity": "company",
+      "status": "current",
+      "revenue_share_pct": 2.0,
+      "sources": [
+        {
+          "pdf_page": 209,
+          "printed_page": "376/377",
+          "quote": "1% 2% 2% 16% FSA E-Auction Washed Coal (Coking) Net sales 79% Washed Coal (Non Coking) Other By Product"
+        }
+      ]
+    },
+    {
+      "name": "Gare Palma mines",
+      "kind": "asset",
+      "descriptor": "SECL recognised C514 crore payable to Ministry of Coal in respect of profit accrued on Gare Palma mines for which Coal India Ltd.",
+      "entity": "company",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 210,
+          "printed_page": "378/379",
+          "quote": "SECL recognised C514 crore payable to Ministry of Coal in respect of profit accrued on Gare Palma mines for which Coal India Ltd. was appointed as custodian"
+        },
+        {
+          "pdf_page": 279,
+          "printed_page": "516",
+          "quote": "profit accrued on Gare Palma mines for which Coal India Ltd. was appointed as custodian"
+        }
+      ]
+    },
+    {
+      "name": "Indian Institute of Coal Management",
+      "kind": "other",
+      "descriptor": "CIL’s own in-house training facility Indian Institute of Coal Management, Ranchi.",
+      "entity": "company",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 213,
+          "printed_page": "385",
+          "quote": "During 2024-25 different training programs were organized at subsidiary headquarters, training centers, vocational training center and also at CIL’s own in-house training facility Indian Institute of Coal Management, Ranchi."
+        }
+      ]
+    },
+    {
+      "name": "mine planning and consultancy services",
+      "kind": "business_line",
+      "descriptor": "one subsidiary is engaged in mine planning, designing, and related consultancy services",
+      "entity": "company",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 222,
+          "printed_page": "402",
+          "quote": "one subsidiary is engaged in mine planning, designing, and related consultancy services"
+        },
+        {
+          "pdf_page": 257,
+          "printed_page": "472",
+          "quote": "mine planning, designing and related consultancy services"
+        }
+      ]
+    },
+    {
+      "name": "Stripping activity asset",
+      "kind": "asset",
+      "descriptor": "Stripping activity asset for stripping costs during the production phase are recognised in the mines with a rated capacity of one million tonnes per annum and",
+      "entity": "company",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 264,
+          "printed_page": "486",
+          "quote": "Stripping activity asset for stripping costs during the production phase are recognised in the mines with a rated capacity of one million tonnes per annum and above"
+        },
+        {
+          "pdf_page": 227,
+          "printed_page": "413",
+          "quote": "Stripping activity asset are shown separately under Property, plant, and equipment."
+        }
+      ]
+    },
+    {
+      "name": "Bharat Coal Gasification & Chemicals Limited",
+      "kind": "subsidiary",
+      "descriptor": "Coal Gasification",
+      "entity": "Bharat Coal Gasification & Chemicals Limited",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 240,
+          "printed_page": "438/439",
+          "quote": "Bharat Coal Gasification & Chemicals Limited (BCGCL)"
+        }
+      ]
+    },
+    {
+      "name": "Bharat Coking Coal Limited",
+      "kind": "subsidiary",
+      "descriptor": "Coal mining (BCCL)",
+      "entity": "Bharat Coking Coal Limited",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 240,
+          "printed_page": "438/439",
+          "quote": "Bharat Coking Coal Limited (BCCL)"
+        },
+        {
+          "pdf_page": 240,
+          "printed_page": "438/439",
+          "quote": "Bharat Coking Coal Limited (BCCL) Coal mining India 100%"
+        }
+      ]
+    },
+    {
+      "name": "CIL Navikarniya Urja Limited",
+      "kind": "subsidiary",
+      "descriptor": "CIL Navikarniya Urja Limited (CNUL)",
+      "entity": "CIL Navikarniya Urja Limited",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 240,
+          "printed_page": "438/439",
+          "quote": "CIL Navikarniya Urja Limited (CNUL)"
+        },
+        {
+          "pdf_page": 240,
+          "printed_page": "438/439",
+          "quote": "CIL Navikarniya Urja Limited (CNUL) Renewable Energy India 100%"
+        }
+      ]
+    },
+    {
+      "name": "CIL Solar PV Limited",
+      "kind": "subsidiary",
+      "descriptor": "Solar Energy (CSPL)",
+      "entity": "CIL Solar PV Limited",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 240,
+          "printed_page": "438/439",
+          "quote": "CIL Solar PV Limited (CSPL)"
+        },
+        {
+          "pdf_page": 240,
+          "printed_page": "438/439",
+          "quote": "CIL Solar PV Limited (CSPL) Solar Energy India 100%"
+        }
+      ]
+    },
+    {
+      "name": "Central Coalfields Limited",
+      "kind": "subsidiary",
+      "descriptor": "Central Coalfields Limited (CCL)",
+      "entity": "Central Coalfields Limited",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 240,
+          "printed_page": "438/439",
+          "quote": "Central Coalfields Limited (CCL)"
+        },
+        {
+          "pdf_page": 240,
+          "printed_page": "438/439",
+          "quote": "Central Coalfields Limited (CCL) Coal mining India 100%"
+        }
+      ]
+    },
+    {
+      "name": "Coal Gas India Limited",
+      "kind": "subsidiary",
+      "descriptor": "Coal Gasification (CGIL)",
+      "entity": "Coal Gas India Limited",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 240,
+          "printed_page": "438/439",
+          "quote": "Coal Gas India Limited (CGIL)"
+        }
+      ]
+    },
+    {
+      "name": "Coal India Africana Limitada",
+      "kind": "subsidiary",
+      "descriptor": "Coal exploration",
+      "entity": "Coal India Africana Limitada",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 240,
+          "printed_page": "438/439",
+          "quote": "Coal India Africana Limitada"
+        }
+      ]
+    },
+    {
+      "name": "Coking Coal",
+      "kind": "product_or_service",
+      "descriptor": "Coking Coal — reported activity",
+      "entity": "company",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 240,
+          "printed_page": "439",
+          "quote": "Coking Coal"
+        }
+      ]
+    },
+    {
+      "name": "Eastern Coalfields Limited",
+      "kind": "subsidiary",
+      "descriptor": "Eastern Coalfields Limited (ECL)",
+      "entity": "Eastern Coalfields Limited",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 240,
+          "printed_page": "438/439",
+          "quote": "Eastern Coalfields Limited (ECL)"
+        },
+        {
+          "pdf_page": 240,
+          "printed_page": "438/439",
+          "quote": "Eastern Coalfields Limited (ECL) Coal mining India 100%"
+        }
+      ]
+    },
+    {
+      "name": "Mahanadi Coalfields Limited",
+      "kind": "subsidiary",
+      "descriptor": "Mahanadi Coalfields Limited (MCL)",
+      "entity": "Mahanadi Coalfields Limited",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 240,
+          "printed_page": "438/439",
+          "quote": "Mahanadi Coalfields Limited (MCL)"
+        },
+        {
+          "pdf_page": 240,
+          "printed_page": "438/439",
+          "quote": "Mahanadi Coalfields Limited (MCL) Coal mining India 100%"
+        }
+      ]
+    },
+    {
+      "name": "Northern Coalfields Limited",
+      "kind": "subsidiary",
+      "descriptor": "Northern Coalfields Limited (NCL)",
+      "entity": "Northern Coalfields Limited",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 240,
+          "printed_page": "438/439",
+          "quote": "Northern Coalfields Limited (NCL)"
+        },
+        {
+          "pdf_page": 240,
+          "printed_page": "438/439",
+          "quote": "Northern Coalfields Limited (NCL) Coal mining India 100%"
+        }
+      ]
+    },
+    {
+      "name": "South Eastern Coalfields Limited",
+      "kind": "subsidiary",
+      "descriptor": "South Eastern Coalfields Limited (SECL)",
+      "entity": "South Eastern Coalfields Limited",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 240,
+          "printed_page": "438/439",
+          "quote": "South Eastern Coalfields Limited (SECL)"
+        },
+        {
+          "pdf_page": 240,
+          "printed_page": "438/439",
+          "quote": "South Eastern Coalfields Limited (SECL) Coal mining India 100%"
+        }
+      ]
+    },
+    {
+      "name": "Western Coalfields Limited",
+      "kind": "subsidiary",
+      "descriptor": "Western Coalfields Limited (WCL)",
+      "entity": "Western Coalfields Limited",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 240,
+          "printed_page": "438/439",
+          "quote": "Western Coalfields Limited (WCL)"
+        },
+        {
+          "pdf_page": 240,
+          "printed_page": "438/439",
+          "quote": "Western Coalfields Limited (WCL) Coal mining India 100%"
+        }
+      ]
+    },
+    {
+      "name": "Coal Lignite Urja Vikas Private Limited",
+      "kind": "subsidiary",
+      "descriptor": "Energy",
+      "entity": "Coal Lignite Urja Vikas Private Limited",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 241,
+          "printed_page": "440/441",
+          "quote": "Coal Lignite Urja Vikas Private Limited (CLUVPL)"
+        },
+        {
+          "pdf_page": 241,
+          "printed_page": "440/441",
+          "quote": "Coal Lignite Urja Vikas Private Limited (CLUVPL) Energy India 50.00%"
+        },
+        {
+          "pdf_page": 285,
+          "printed_page": "528",
+          "quote": "vii) Coal Lignite Urja Vikas Private Limited (CLUVPL) is a"
+        }
+      ]
+    },
+    {
+      "name": "Hindustan Urvarak and Rasayan Limited",
+      "kind": "subsidiary",
+      "descriptor": "Fertiliser",
+      "entity": "Hindustan Urvarak and Rasayan Limited",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 241,
+          "printed_page": "440/441",
+          "quote": "Hindustan Urvarak and Rasayan Limited (HURL)"
+        },
+        {
+          "pdf_page": 241,
+          "printed_page": "440/441",
+          "quote": "Hindustan Urvarak and Rasayan Limited (HURL) Fertiliser India 33.33%"
+        },
+        {
+          "pdf_page": 285,
+          "printed_page": "528",
+          "quote": "Accordingly, a joint venture company named Hindustan Urvarak and Rasayan Limited (HURL) was incorporated on 15th June, 2016 under the Companies Act, 2013."
+        }
+      ]
+    },
+    {
+      "name": "International Coal Venture Private Limited",
+      "kind": "subsidiary",
+      "descriptor": "Coal",
+      "entity": "International Coal Venture Private Limited",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 241,
+          "printed_page": "440/441",
+          "quote": "International Coal Venture Private Limited (ICVL)"
+        },
+        {
+          "pdf_page": 284,
+          "printed_page": "527",
+          "quote": "International Coal Ventures Private Ltd."
+        }
+      ]
+    },
+    {
+      "name": "Talcher Fertilizers Limited",
+      "kind": "subsidiary",
+      "descriptor": "Fertiliser",
+      "entity": "Talcher Fertilizers Limited",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 241,
+          "printed_page": "440/441",
+          "quote": "Talcher Fertilizers Limited (TFL)"
+        },
+        {
+          "pdf_page": 241,
+          "printed_page": "440/441",
+          "quote": "Talcher Fertilizers Limited (TFL) Fertiliser India 33.33%"
+        },
+        {
+          "pdf_page": 284,
+          "printed_page": "527",
+          "quote": "(ICVL), Hindustan Urvarak and Rasayan Limited (HURL), Talcher Fertilizers Limited (TFL) and Coal Lignite Urja Vikas Private Limited (CLUVPL)."
+        }
+      ]
+    },
+    {
+      "name": "State Nominated Agencies",
+      "kind": "channel",
+      "descriptor": "FSAs with customers or with State Nominated Agencies that in turn enters into appropriate distribution arrangements with end customers.",
+      "entity": "company",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 244,
+          "printed_page": "446",
+          "quote": "FSAs with customers or with State Nominated Agencies that in turn enters into appropriate distribution arrangements with end customers."
+        }
+      ]
+    },
+    {
+      "name": "power utilities sector",
+      "kind": "segment",
+      "descriptor": "FSAs with customers in the power utilities sector, including State power utilities, private power utilities (“PPUs”) and independent power producers (“IPPs”)",
+      "entity": "company",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 244,
+          "printed_page": "446",
+          "quote": "FSAs with customers in the power utilities sector, including State power utilities, private power utilities (“PPUs”) and independent power producers (“IPPs”) under various clauses of Scheme to Harness and Allocate Koyla (Coal) Transparently in India (SHAKTI);"
+        }
+      ]
+    },
+    {
+      "name": "Import and other sale",
+      "kind": "other",
+      "descriptor": "FSA - - - E Auction 177.08 127.20 - Import and other sale - (13.20) Total revenue from Sale of Coal and others 177.08 114.00 Timing of goods or service - Goods",
+      "entity": "company",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 251,
+          "printed_page": "461",
+          "quote": "ion 177.08 127.20 - Import and other sale - (13.20) Total revenue from Sale of Coal and others 177.08 114.00 Timing of goods or service - Go"
+        }
+      ]
+    },
+    {
+      "name": "Coal Handling Plants (CHP)",
+      "kind": "asset",
+      "descriptor": "through: Construction of CHP (Coal Handling Plants) Installation of silos, bunkers, surge bins, and crushers Deployment of conveyor systems from pithead to siding Development of rail sidings for",
+      "entity": "company",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 329,
+          "printed_page": "16",
+          "quote": "through: Construction of CHP (Coal Handling Plants) Installation of silos, bunkers, surge bins, and crushers Deployment of conveyor systems from pithead to siding Development of rail sidings for efficient logistics 2."
+        }
+      ]
+    },
+    {
+      "name": "Conveyor systems from pithead to siding",
+      "kind": "asset",
+      "descriptor": "Deployment of conveyor systems from pithead to siding",
+      "entity": "company",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 329,
+          "printed_page": "16",
+          "quote": "surge bins, and crushers Deployment of conveyor systems from pithead to siding Development of rail sidings for efficient logistics 2."
+        }
+      ]
+    },
+    {
+      "name": "Monolithic perovskite module manufacturing",
+      "kind": "product_or_service",
+      "descriptor": "monolithic perovskite module manufacturing via printing",
+      "entity": "company",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 329,
+          "printed_page": "16",
+          "quote": "Advanced indigenous technology through the development of monolithic perovskite module manufacturing via printing."
+        }
+      ]
+    },
+    {
+      "name": "Rail sidings for logistics",
+      "kind": "asset",
+      "descriptor": "Development of rail sidings for efficient logistics",
+      "entity": "company",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 329,
+          "printed_page": "16",
+          "quote": "of rail sidings for efficient logistics 2."
+        }
+      ]
+    },
+    {
+      "name": "Silos, bunkers, surge bins, and crushers",
+      "kind": "asset",
+      "descriptor": "Installation of silos, bunkers, surge bins, and crushers",
+      "entity": "company",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 329,
+          "printed_page": "16",
+          "quote": "(Coal Handling Plants) Installation of silos, bunkers, surge bins, and crushers Deployment of conveyor systems from pithead to siding Development of rail sidings for efficient logistics 2."
+        }
+      ]
+    },
+    {
+      "name": "Solar power infrastructure",
+      "kind": "asset",
+      "descriptor": "solar power infrastructure including rooftop and ground-mounted plants",
+      "entity": "company",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 329,
+          "printed_page": "16",
+          "quote": "Invested in solar power infrastructure, including rooftop and ground- mounted plants, to reduce carbon footprint."
+        }
+      ]
+    },
+    {
+      "name": "Rescue Teams",
+      "kind": "asset",
+      "descriptor": "The Company maintains a well-established Rescue teams at strategic locations across various subsidiaries, providing 24x7 emergency response services.",
+      "entity": "company",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 334,
+          "printed_page": "21",
+          "quote": "The Company maintains a well-established Rescue teams at strategic locations across various subsidiaries, providing 24x7 emergency response services."
+        }
+      ]
+    },
+    {
+      "name": "Safety Committees",
+      "kind": "other",
+      "descriptor": "(Y/N) Yes, the Company has established Safety Committees in each mine, which consist of representatives from both management and workers under the chairmanship of the Mine Manager and Safety Officer",
+      "entity": "company",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 334,
+          "printed_page": "21",
+          "quote": "(Y/N) Yes, the Company has established Safety Committees in each mine, which consist of representatives from both management and workers under the chairmanship of the Mine Manager and Safety Officer acts as the Secretary of the Committee."
+        }
+      ]
+    },
+    {
+      "name": "Coal Mines Pension Scheme (CMPS)",
+      "kind": "other",
+      "descriptor": "Coal Mines Pension Scheme (CMPS) — support scheme",
+      "entity": "company",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 336,
+          "printed_page": "23",
+          "quote": "Coal Mines Pension Scheme (CMPS)"
+        }
+      ]
+    },
+    {
+      "name": "Defined Contribution Superannuation Pension Scheme (DCSPS)",
+      "kind": "other",
+      "descriptor": "Defined Contribution Superannuation Pension Scheme (DCSPS) — support scheme",
+      "entity": "company",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 336,
+          "printed_page": "23",
+          "quote": "Defined Contribution Superannuation Pension Scheme (DCSPS)"
+        }
+      ]
+    },
+    {
+      "name": "3,000 MW solar capacity transition",
+      "kind": "other",
+      "descriptor": "transition to 3,000 MW solar capacity by FY 2027-28",
+      "entity": "company",
+      "status": "planned",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 345,
+          "printed_page": "32",
+          "quote": "million MT annually, transition to 3,000 MW solar capacity by FY 2027-28 with plans to achieve 9.5 GW by 2030, and implementation of advanced clean coal technologies through international partnerships."
+        }
+      ]
+    },
+    {
+      "name": "R&D efforts for carbon sequestration",
+      "kind": "other",
+      "descriptor": "circular economy initiatives, R&D efforts for carbon sequestration, and international collaborations.",
+      "entity": "company",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 345,
+          "printed_page": "32",
+          "quote": "The company has established emission mitigation strategies across seven key focus areas including greening mining areas, air pollution mitigation, energy efficiency, renewable energy adoption, circular economy initiatives, R&D efforts for carbon sequestration, and international collaborations."
+        }
+      ]
+    },
+    {
+      "name": "Advanced Mining Technology",
+      "kind": "other",
+      "descriptor": "7 Advanced Mining Technology Deployment of additional surface miners and continuous miners for blasting-free coal extraction in opencast and underground mines.",
+      "entity": "company",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 350,
+          "printed_page": "37",
+          "quote": "7 Advanced Mining Technology Deployment of additional surface miners and continuous miners for blasting-free coal extraction in opencast and underground mines."
+        }
+      ]
+    },
+    {
+      "name": "Development of Eco-Parks",
+      "kind": "philanthropy",
+      "descriptor": "10 Development of Eco- Parks R&D initiative for scaling up technologies to convert CO₂ into methanol and other valuable chemicals with capacity of 500 kg CO₂/day.",
+      "entity": "company",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 350,
+          "printed_page": "37",
+          "quote": "10 Development of Eco- Parks R&D initiative for scaling up technologies to convert CO₂ into methanol and other valuable chemicals with capacity of 500 kg CO₂/day."
+        }
+      ]
+    },
+    {
+      "name": "Dust Suppression Systems",
+      "kind": "other",
+      "descriptor": "5 Dust Suppression Systems Deployed 972 mobile water sprinkler tankers, 80 road-sweeping machines, 351 trolley-mounted and 133 mobile fog cannon sprinkling systems.",
+      "entity": "company",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 350,
+          "printed_page": "37",
+          "quote": "5 Dust Suppression Systems Deployed 972 mobile water sprinkler tankers, 80 road-sweeping machines, 351 trolley-mounted and 133 mobile fog cannon sprinkling systems."
+        }
+      ]
+    },
+    {
+      "name": "Energy Efficiency Upgrades",
+      "kind": "other",
+      "descriptor": "4 Energy Efficiency Upgrades Replaced over 1.1 lakh conventional lights with LED lights, 953 conventional air conditioners with energy-efficient models, installed 11,922 super fans, and replaced old",
+      "entity": "company",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 350,
+          "printed_page": "37",
+          "quote": "4 Energy Efficiency Upgrades Replaced over 1.1 lakh conventional lights with LED lights, 953 conventional air conditioners with energy-efficient models, installed 11,922 super fans, and replaced old water pumps with 941 energy-efficient pumps."
+        }
+      ]
+    },
+    {
+      "name": "First Mile Connectivity (FMC) Projects",
+      "kind": "other",
+      "descriptor": "2 First Mile Connectivity (FMC) Projects Mechanized coal evacuation through 35 operational FMC projects with total capacity of 351 million tonnes.",
+      "entity": "company",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 350,
+          "printed_page": "37",
+          "quote": "2 First Mile Connectivity (FMC) Projects Mechanized coal evacuation through 35 operational FMC projects with total capacity of 351 million tonnes."
+        }
+      ]
+    },
+    {
+      "name": "Mine Reclamation and Monitoring",
+      "kind": "asset",
+      "descriptor": "systematic restoration and vegetation monitoring of mined areas",
+      "entity": "company",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 350,
+          "printed_page": "37",
+          "quote": "8 Mine Reclamation and Monitoring Systematic restoration of mining areas with scientific monitoring."
+        }
+      ]
+    },
+    {
+      "name": "Real-Time Air Quality Monitoring",
+      "kind": "research_platform",
+      "descriptor": "continuous ambient air quality monitoring systems",
+      "entity": "company",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 350,
+          "printed_page": "37",
+          "quote": "6 Real-Time Air Quality Monitoring Implementation of 111 Continuous Ambient Air Quality Monitoring Systems (CAAQMS) integrated with CPCB and SPCB servers, and 97 PM10 analysers for continuous monitoring."
+        }
+      ]
+    },
+    {
+      "name": "Solar Energy Projects",
+      "kind": "product_or_service",
+      "descriptor": "3 Solar Energy Projects Comprehensive three-pronged strategy to achieve 3,000 MW solar capacity by FY 2027-28, including total 400 MW solar plant in Gujarat",
+      "entity": "company",
+      "status": "current",
+      "revenue_share_pct": null,
+      "sources": [
+        {
+          "pdf_page": 350,
+          "printed_page": "37",
+          "quote": "portation system. 3 Solar Energy Projects Comprehensive three-pronged strategy to achieve 3,000 MW solar capacity by FY 2027-28, including t"
+        }
+      ]
+    }
+  ]
+}

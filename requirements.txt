@@ -1,0 +1,20 @@
+# Install into a Python 3.11 or 3.12 virtual environment.
+# The machine default may be 3.14, which does not reliably have these wheels.
+# System tools, installed separately: Tesseract OCR, Ghostscript (for Camelot).
+
+pymupdf==2.1
+pdfplumber
+# PaddleOCR 3.7 requires this build. Do not also install opencv-python.
+opencv-contrib-python==4.10.0.84
+pillow==13.0.0
+numpy>=1.24,<2.4
+pytesseract
+paddleocr
+camelot-py[cv]
+rapidfuzz==3.14.6
+pydantic
+python-dotenv
+pyyaml
+groq==1.7.0
+mistralai>=1.5.0
+pytest==9.2.0
